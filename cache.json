@@ -11,7 +11,7 @@
           "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/auto-generated-social-media-images/",
           "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 1934,
+          "wordCount": 2173,
           "title": "Auto-Generated Social Media Images"
         },
         {
@@ -29,7 +29,7 @@
           "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/html-boilerplates/",
           "publishedOn": "2021-05-14T14:13:07.000Z",
-          "wordCount": 749,
+          "wordCount": 781,
           "title": "HTML Boilerplates"
         },
         {
@@ -83,7 +83,7 @@
           "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
           "publishedOn": "2021-05-11T22:00:29.000Z",
-          "wordCount": 441,
+          "wordCount": 498,
           "title": "CSS Pie Timer Re-Revisited"
         },
         {
@@ -101,7 +101,7 @@
           "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/next-gen-css-container/",
           "publishedOn": "2021-05-11T14:36:10.000Z",
-          "wordCount": 1419,
+          "wordCount": 1441,
           "title": "Next Gen CSS: @container"
         },
         {
@@ -128,7 +128,7 @@
           "description": "I find build tooling endlessly interesting, especially right now as we’re in a juicy next-gen transitional period with players like Vite, wmr, Snowpack, and esbuild. Hugh Haworth has a good run-down of the new players, and we’ve chatted on …\nThe post Migrating from Parcel to Snowpack appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://benfrain.com/migrating-from-parcel-to-snowpack-build-tool-comparison/",
           "publishedOn": "2021-05-10T21:13:23.000Z",
-          "wordCount": 2953,
+          "wordCount": 2933,
           "title": "Migrating from Parcel to Snowpack"
         },
         {
@@ -459,130 +459,733 @@
       "siteUrl": "https://www.theguardian.com/uk",
       "articles": [
         {
-          "id": "https://www.theguardian.com/business/2021/may/16/eco-investors-turn-up-heat-on-shell-over-climate-target",
-          "author": "Jillian Ambrose",
-          "description": "Voting at the oil giant’s annual meeting this week could see Follow This activists making trouble over emissions\nShell is braced for its largest climate rebellion this week as shareholders face the choice between backing the oil giant’s carbon-cutting plans or siding with an activist investor who is calling for tougher emissions targets.\nWith its annual meeting planned for Tuesday, the Anglo-Dutch company has called on its investors to vote against a shareholder resolution from campaign group Follow This in…",
-          "link": "https://www.theguardian.com/business/2021/may/16/eco-investors-turn-up-heat-on-shell-over-climate-target",
-          "publishedOn": "2021-05-15T23:05:38.000Z",
-          "wordCount": 875,
-          "title": "Eco investors turn up the heat on Shell over climate target"
+          "id": "https://www.theguardian.com/society/2021/may/17/social-care-cuts-mean-thousands-with-dementia-taken-to-ae-charity-says",
+          "author": "Amelia Hill",
+          "description": "There has been a 27% increase over four years in avoidable illnesses and injuries caused by failures in care\nTens of thousands of people with dementia are taken to hospital each year for emergency admission because inadequate social care has left them unprotected from infections, falls and dehydration, an investigation has found.\nThere has been a 27% increase over a four-year period in avoidable illnesses and injuries caused by failures in care for those living with dementia, according to the Alzheimer’s So…",
+          "link": "https://www.theguardian.com/society/2021/may/17/social-care-cuts-mean-thousands-with-dementia-taken-to-ae-charity-says",
+          "publishedOn": "2021-05-16T23:01:08.000Z",
+          "wordCount": 673,
+          "title": "Social care cuts mean thousands with dementia taken to A&E, charity says"
         },
         {
-          "id": "https://www.theguardian.com/uk-news/2021/may/16/charles-to-open-up-palaces-to-the-public-when-he-becomes-king-reports",
+          "id": "https://www.theguardian.com/business/2021/may/17/uk-faces-labour-shortage-as-covid-and-brexit-fuel-exodus-of-overseas-workers",
+          "author": "Richard Partington Economics correspondent",
+          "description": "Experts say recovery at risk amid sharp fall in EU workers and dwindling interest in UK jobs from abroad\nBritain’s employers are struggling to hire staff as lockdown lifts amid an exodus of overseas workers caused by the Covid pandemic and Brexit, industry figures reveal.\nAccording to the Chartered Institute of Personnel and Development (CIPD) and the recruitment firm Adecco, employers plan to hire at the fastest rate in eight years, led by the reopening of the hospitality and retail sectors as pandemic res…",
+          "link": "https://www.theguardian.com/business/2021/may/17/uk-faces-labour-shortage-as-covid-and-brexit-fuel-exodus-of-overseas-workers",
+          "publishedOn": "2021-05-16T23:01:08.000Z",
+          "wordCount": 903,
+          "title": "UK ‘faces labour shortage’ as Covid and Brexit fuel exodus of overseas workers"
+        },
+        {
+          "id": "https://www.theguardian.com/money/2021/may/17/average-asking-price-for-uk-homes-hits-record-333564",
+          "author": "Hilary Osborne",
+          "description": "Prices have increased most in Wales and the north-west of England and least in London, says Rightmove\nThe average asking price of homes coming on to the UK property market hit a high of a third of a million pounds in May, according to figures from the listings website Rightmove.\nThe average asking price has increased by 1.8%, or £5,767, over the past month to £333,564, the website said, with an “unexpected mini-boom” that started last year continuing well into 2021.\n Continue reading...",
+          "link": "https://www.theguardian.com/money/2021/may/17/average-asking-price-for-uk-homes-hits-record-333564",
+          "publishedOn": "2021-05-16T23:01:08.000Z",
+          "wordCount": 623,
+          "title": "Average asking price for UK homes hits record £333,564"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/may/17/lgbt-youths-twice-as-likely-to-contemplate-suicide-survey-finds",
+          "author": "Rhi Storer",
+          "description": "Exclusive: cut off from support networks and often facing tension at home, young LGBT+ people suffered more than most during lockdowns\nYoung LGBT+ people are three times more likely to self-harm and twice as likely to contemplate suicide as their non-LGBT+ peers, according to a survey.\nThe research was carried out by Just Like Us, an LGBT+ young people’s charity, which surveyed 2,934 pupils aged 11-18, including 1,140 pupils who identify as LGBT+.\n Continue reading...",
+          "link": "https://www.theguardian.com/society/2021/may/17/lgbt-youths-twice-as-likely-to-contemplate-suicide-survey-finds",
+          "publishedOn": "2021-05-16T23:01:07.000Z",
+          "wordCount": 849,
+          "title": "LGBT+ youths twice as likely to contemplate suicide, survey finds"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/17/mother-earth-denied-classic-double-as-couersamba-rides-to-shock-paris-win",
           "author": "PA Media",
-          "description": "Prince of Wales is said to want Buckingham Palace, Sandringham and other royal homes to go from ‘private spaces to public places’\nThe Prince of Wales reportedly plans to give people greater access to the royal palaces when he becomes king.\nCharles wants Buckingham Palace, Clarence House, Windsor Castle, Sandringham and Balmoral to be transformed from “private spaces to public places”, according to the Sunday Times.\n Continue reading...",
-          "link": "https://www.theguardian.com/uk-news/2021/may/16/charles-to-open-up-palaces-to-the-public-when-he-becomes-king-reports",
-          "publishedOn": "2021-05-15T23:03:45.000Z",
-          "wordCount": 563,
-          "title": "Charles to open up palaces to the public when he becomes king – reports"
+          "description": "Outsider wins Poule d’Essai des Pouliches at ParisLongchamp\nMother Earth was 6-4 favourite after 1,000 Guineas success\n\nCoeursamba denied Mother Earth a Classic double with a shock victory in the Poule d’Essai des Pouliches at ParisLongchamp.\nHaving swooped to victory in the 1,000 Guineas at Newmarket a fortnight ago, the Aidan O’Brien-trained Mother Earth was the 6-4 favourite to follow up in the French equivalent, with Christophe Soumillon coming in for the ride.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/may/17/mother-earth-denied-classic-double-as-couersamba-rides-to-shock-paris-win",
+          "publishedOn": "2021-05-16T23:01:07.000Z",
+          "wordCount": 849,
+          "title": "Mother Earth denied Classic double as Couersamba rides to shock Paris win"
         },
         {
-          "id": "https://www.theguardian.com/fashion/gallery/2021/may/15/bold-blouses-20-of-the-best-statement-shirts-in-pictures",
-          "author": "Jo Jones",
-          "description": "Put yourself in a holiday frame of mind with a bright and vibrant blouse – then dress it up or down with trousers and jewellery \n Continue reading...",
-          "link": "https://www.theguardian.com/fashion/gallery/2021/may/15/bold-blouses-20-of-the-best-statement-shirts-in-pictures",
-          "publishedOn": "2021-05-15T22:50:38.000Z",
-          "wordCount": 467,
-          "title": "Bold blouses: 20 of the best statement shirts – in pictures"
+          "id": "https://www.theguardian.com/tv-and-radio/2021/may/16/delia-derbyshire-the-myths-and-the-legendary-tapes-review-playful-paean-to-a-musical-pioneer",
+          "author": "Rebecca Nicholson",
+          "description": "Experimental and inventive, Caroline Catz’s film paints a fond, intimate and arty portrait of the influential electronic musician\nI hope films like Delia Derbyshire: The Myths and the Legendary Tapes (BBC Four) will still have a home at the BBC after BBC Four becomes an archive-only channel, as is planned. I cannot imagine anything so wilfully arty sitting on a more mainstream channel. This is a wonderfully inventive piece of storytelling that celebrates the strange brilliance of a mysterious pioneer of ele…",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/may/16/delia-derbyshire-the-myths-and-the-legendary-tapes-review-playful-paean-to-a-musical-pioneer",
+          "publishedOn": "2021-05-16T21:30:06.000Z",
+          "wordCount": 978,
+          "title": "Delia Derbyshire: The Myths and the Legendary Tapes review – playful paean to a musical pioneer"
         },
         {
-          "id": "https://www.theguardian.com/fashion/gallery/2021/may/15/pack-light-20-of-the-best-mens-mini-crossbody-bags-in-pictures",
-          "author": "Peter Bevan",
-          "description": "Whether you’re going for dinner or heading to the park, a crossbody pouch is the perfect accessory to hold all your essentials, face mask and hand sanitiser included\n Continue reading...",
-          "link": "https://www.theguardian.com/fashion/gallery/2021/may/15/pack-light-20-of-the-best-mens-mini-crossbody-bags-in-pictures",
-          "publishedOn": "2021-05-15T22:45:38.000Z",
-          "wordCount": 485,
-          "title": "Pack light: 20 of the best men’s mini crossbody bags – in pictures"
+          "id": "https://www.theguardian.com/law/2021/may/16/labour-proposes-new-offences-for-violence-against-women-and-girls",
+          "author": "Jessica Elgot Deputy political editor",
+          "description": "Green paper calls for misogyny to be made hate crime and bans on street harassment and sex-for-rent\nLabour would create a slew of new offences concerning violence against women and girls, including prohibiting street harassment, making misogyny a hate crime and banning sex-for-rent.\nThe proposals also include introducing criminal sanctions for tech executives who do not act fast enough to remove misogynistic abuse on their platforms, building on previous proposals from the party to tackle online hate speech…",
+          "link": "https://www.theguardian.com/law/2021/may/16/labour-proposes-new-offences-for-violence-against-women-and-girls",
+          "publishedOn": "2021-05-16T21:30:05.000Z",
+          "wordCount": 553,
+          "title": "Labour proposes new offences for violence against women and girls"
         },
         {
-          "id": "https://www.theguardian.com/business/2021/may/15/santander-apologises-for-technical-problem-that-affected-online-and-card-payments",
-          "author": "Nicola Slawson and agencies",
-          "description": "Customers reported problems with the bank’s telephone, branch, online and card services\nSantander has apologised for a “technical problem” which left some customers unable to make payments online or buy food at the supermarket on Saturday, although the bank said its services had returned to normal by the late evening.\nCustomers have reported problems with the bank’s telephone, branch, online and card services.\n Continue reading...",
-          "link": "https://www.theguardian.com/business/2021/may/15/santander-apologises-for-technical-problem-that-affected-online-and-card-payments",
-          "publishedOn": "2021-05-15T21:59:30.000Z",
-          "wordCount": 512,
-          "title": "Santander apologises for ‘technical problem’ that affected online and card payments"
+          "id": "https://www.theguardian.com/football/2021/may/16/chelsea-barcelona-womens-champions-league-final-match-report",
+          "author": "Suzanne Wrack at the Ullevi Stadium",
+          "description": "Barcelona shrugged off their Champions League final demons to obliterate Chelsea and deliver a crushing blow to the prestige of the Women’s Super League.\nA first-minute own goal and another three inside 36 minutes, from the midfielders Alexia Putellas, Aitana Bonmatí and the Norwegian forward Caroline Graham Hansen, quietened the usually vocal Emma Hayes, who stood alone in her technical area, unable to mastermind a way past an exhilarating team that has played 26 and won 26 on the way to a La Liga title wi…",
+          "link": "https://www.theguardian.com/football/2021/may/16/chelsea-barcelona-womens-champions-league-final-match-report",
+          "publishedOn": "2021-05-16T20:52:39.000Z",
+          "wordCount": 1034,
+          "title": "Barcelona stun Chelsea with early blitz to win Women’s Champions League"
         },
         {
-          "id": "https://www.theguardian.com/football/2021/may/15/champions-league-qualification-would-not-spark-spending-spree-says-klopp",
-          "author": "Richard Jolly",
-          "description": "Liverpool manager says players want to qualify for the ‘joy’\nKlopp admits ‘we will not buy eight players if we qualify’\n\nJürgen Klopp has said that Champions League qualification will not allow him to go on a spending spree or for Liverpool to radically reshape his squad. Fresh from beating Manchester United 4-2, Liverpool know that victories against West Bromwich Albion on Sunday, plus Burnley and Crystal Palace, mean a top-four finish is within their grasp.\nLiverpool banked £98m in Champions League broadc…",
-          "link": "https://www.theguardian.com/football/2021/may/15/champions-league-qualification-would-not-spark-spending-spree-says-klopp",
-          "publishedOn": "2021-05-15T21:30:36.000Z",
-          "wordCount": 616,
-          "title": "Champions League qualification would not spark spending spree, says Klopp"
+          "id": "https://www.theguardian.com/world/2021/may/16/britain-england-scotland-wales-changing-coronavirus-restrictions-17-may",
+          "author": "Clea Skopeliti",
+          "description": "Coronavirus restrictions are set to be eased in England, Wales and most of Scotland from Monday\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nCoronavirus restrictions will be eased further on Monday in England, Wales and most of Scotland. Northern Ireland will review its measures on Thursday, with a view to lifting more restrictions on 24 May.\nThe next phase of relaxation comes despite the spread of the coronavirus variant first detected in India, though Boris Johnson warned on Friday that…",
+          "link": "https://www.theguardian.com/world/2021/may/16/britain-england-scotland-wales-changing-coronavirus-restrictions-17-may",
+          "publishedOn": "2021-05-16T20:47:30.000Z",
+          "wordCount": 994,
+          "title": "17 May reopening: how Covid measures across Britain are changing"
         },
         {
-          "id": "https://www.theguardian.com/football/2021/may/15/brighton-west-ham-premier-league-match-report",
-          "author": "Ed Aarons at the Amex Stadium",
-          "description": "No one said it was going to be easy, not least David Moyes. But after the substitute Saïd Benrahma’s late equaliser earned his side a point with his first-ever Premier League goal, West Ham’s manager will still be clinging to the hope that they can seal a miraculous top-four finish against all the odds.\nWhen Danny Welbeck opened the scoring for Brighton with just six minutes left to play, it appeared that despite all their efforts West Ham would come away with nothing. Yet Benrahma’s cool finish when the ba…",
-          "link": "https://www.theguardian.com/football/2021/may/15/brighton-west-ham-premier-league-match-report",
-          "publishedOn": "2021-05-15T21:05:23.000Z",
-          "wordCount": 966,
-          "title": "West Ham‘s top-four hopes fade despite Benrahma salvaging point at Brighton"
+          "id": "https://www.theguardian.com/politics/2021/may/16/conservative-mp-criticised-racist-anti-palestinian-tweet",
+          "author": "PA Media",
+          "description": "Michael Fabricant, the MP for Lichfield, called pro-Palestine demonstrators who clashed with police ‘primitives’\nTory MP Michael Fabricant has been criticised for describing pro-Palestinian demonstrators clashing with police as “primitives”.\nAnti-racism campaign Hope Not Hate called for the Conservative party to suspend the backbencher on Sunday, accusing him of “hateful racism that stirs up division”.\n Continue reading...",
+          "link": "https://www.theguardian.com/politics/2021/may/16/conservative-mp-criticised-racist-anti-palestinian-tweet",
+          "publishedOn": "2021-05-16T20:34:57.000Z",
+          "wordCount": 506,
+          "title": "Conservative MP condemned for ‘racist’ tweet about Israel protests"
         },
         {
-          "id": "https://www.theguardian.com/football/2021/may/15/pernille-harder-the-biggest-thing-would-be-to-see-magda-lift-the-trophy",
-          "author": "Suzanne Wrack",
-          "description": "Twice a losing Women’s Champions League finalist, the Dane believes resilient Chelsea can clinch the crown: ‘No matter how the games are turning we know we can come back if we have a setback’\nPernille Harder will be hoping it is third time lucky when she steps on to the pitch at the Gamla Ullevi stadium in Gothenburg to play Barcelona in the Champions League final on Sunday evening. She knows exactly what it is like to lose. In 2018 she was agonisingly close to getting her hands on the trophy, scoring first…",
-          "link": "https://www.theguardian.com/football/2021/may/15/pernille-harder-the-biggest-thing-would-be-to-see-magda-lift-the-trophy",
-          "publishedOn": "2021-05-15T21:00:36.000Z",
-          "wordCount": 1662,
-          "title": "Pernille Harder: ‘The biggest thing would be to see Magda lift the trophy’"
+          "id": "https://www.theguardian.com/football/2021/may/16/everton-sheffield-united-premier-league-match-report",
+          "author": "Andy Hunter at Goodison Park",
+          "description": "Carlo Ancelotti’s luck is about to run out. His Everton team have delivered the worst Premier League campaign at Goodison Park since 1993-94, when a final-day miracle was needed against Wimbledon to keep Mike Walker’s side in the top flight, and to a backdrop of silence instead of the scorn that would usually descend from full and furious terraces. There will be no opportunity for escape when 6,500 Evertonians return against Wolves on Wednesday.\nBottom club Sheffield United, relegated with only one previous…",
+          "link": "https://www.theguardian.com/football/2021/may/16/everton-sheffield-united-premier-league-match-report",
+          "publishedOn": "2021-05-16T20:10:15.000Z",
+          "wordCount": 1007,
+          "title": "Sheffield United’s Daniel Jebbison pounces early to deepen Everton woes"
         },
         {
-          "id": "https://www.theguardian.com/world/2021/may/15/johnson-must-think-again-on-plans-to-relax-covid-rules",
-          "author": "Denis Campbell, Toby Helm and David Connett",
-          "description": "Top adviser warns of India variant impact as scientists urge delay in lockdown changes\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nBoris Johnson was under mounting pressure on Saturday to reconsider Monday’s relaxation of Covid rules in England because of the threat posed by the India variant. His own advisers and independent health experts raised fears that it could lead to a surge in hospital admissions, especially among young adults.\nFrom Monday people will be able to meet in groups o…",
-          "link": "https://www.theguardian.com/world/2021/may/15/johnson-must-think-again-on-plans-to-relax-covid-rules",
-          "publishedOn": "2021-05-15T20:45:35.000Z",
-          "wordCount": 1164,
-          "title": "Johnson ‘must think again on plans to relax Covid rules’"
+          "id": "https://www.theguardian.com/football/2021/may/16/emotional-alisson-thanks-football-family-for-support-after-scoring-winner",
+          "author": "Peter Lansley at the Hawthorns",
+          "description": "Goalkeeper scored 95th-minute winner at West Brom\n‘Football is my life ... I hope he was there celebrating’\n\nLiverpool kept alive their dreams of qualifying for the Champions League in remarkable circumstances as goalkeeper Alisson scored a 95th-minute winner at West Bromwich Albion.\nThe emotional Brazilian, who lost his father in a drowning accident in February, dedicated the first goal of his senior career – a fine, glancing header – to his family as he said: “God put his hand on my head today”.\n Continue…",
+          "link": "https://www.theguardian.com/football/2021/may/16/emotional-alisson-thanks-football-family-for-support-after-scoring-winner",
+          "publishedOn": "2021-05-16T20:05:20.000Z",
+          "wordCount": 695,
+          "title": "‘God put his hand on my head’: Alisson devotes Liverpool winner to late father"
         },
         {
-          "id": "https://www.theguardian.com/football/2021/may/15/brendan-rodgers-says-leicester-fa-cup-win-is-for-players-fans-and-owner",
-          "author": "Jacob Steinberg at Wembley",
-          "description": "Manager pays tribute to Aiyawatt Srivaddhanaprabha\n‘It’s been a dream of theirs to win the FA Cup’\n\nBrendan Rodgers was delighted to see dreams come true after a stunning goal from Youri Tielemans saw Leicester beat Chelsea at Wembley and win the FA Cup for the first time in their history.\nIt was a special day for Leicester as they battled to a tense win in front of some 21,000 supporters. Rodgers paid tribute to the club’s owner, Aiyawatt Srivaddhanaprabha, whose father Vichai died in a helicopter crash in…",
-          "link": "https://www.theguardian.com/football/2021/may/15/brendan-rodgers-says-leicester-fa-cup-win-is-for-players-fans-and-owner",
-          "publishedOn": "2021-05-15T20:36:48.000Z",
-          "wordCount": 847,
-          "title": "Brendan Rodgers says Leicester FA Cup win is for players, fans and owner"
+          "id": "https://www.theguardian.com/australia-news/ng-interactive/2021/may/17/who-owns-australia",
+          "author": "Calla Wahlquist , Josh Nicholas, Andy Ball and Nick Evershed",
+          "description": "Complex web of data reveals large swathes of country controlled by small number of billionaires and large companies\n Continue reading...",
+          "link": "https://www.theguardian.com/australia-news/ng-interactive/2021/may/17/who-owns-australia",
+          "publishedOn": "2021-05-16T20:00:04.000Z",
+          "wordCount": 2890,
+          "title": "Who owns Australia?"
         },
         {
-          "id": "https://www.theguardian.com/sport/2021/may/15/andy-murray-clay-season-tennis-clouded-in-uncertainty-after-geneva-decision",
-          "author": "Tumaini Carayol",
-          "description": "Scot suffers from discomfort during doubles match in Rome\n\nMurray also turns down wildcard for Geneva ATP tournament\n\nAndy Murray will not compete at Roland Garros this year after suffering from some discomfort during the ATP Masters 1000 event in Rome and will instead attempt to return to singles during the upcoming grass season and Wimbledon.\nMurray, who turned 34 years old today, returned to action in doubles after a two-month layoff following his withdrawal from the Miami Open in March with a groin inju…",
-          "link": "https://www.theguardian.com/sport/2021/may/15/andy-murray-clay-season-tennis-clouded-in-uncertainty-after-geneva-decision",
-          "publishedOn": "2021-05-15T20:33:22.000Z",
-          "wordCount": 486,
-          "title": "Andy Murray pulls out of French Open to focus on Wimbledon"
+          "id": "https://www.theguardian.com/commentisfree/picture/2021/may/16/ben-jennings-uk-delay-india-red-list-coronavirus-cartoon",
+          "author": "Ben Jennings",
+          "description": "Coronavirus – latest updates\nSee all our coronavirus coverage\n Continue reading...",
+          "link": "https://www.theguardian.com/commentisfree/picture/2021/may/16/ben-jennings-uk-delay-india-red-list-coronavirus-cartoon",
+          "publishedOn": "2021-05-16T19:00:02.000Z",
+          "wordCount": 421,
+          "title": "Ben Jennings on UK’s delay in adding India to red list – cartoon"
         },
         {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/lakeith-stanfield-clubhouse-antisemitism-scandal",
-          "author": "Victoria Bekiempis in New York",
-          "description": "Actor moderated talk in which users made antisemitic remarks\nOpinion: Why Clubhouse spells nothing but trouble\n\nThe actor Lakeith Stanfield has spoken out amid controversy over his presence in a Clubhouse room where participants made antisemitic remarks, saying: “Any kind of hate speech, I vehemently reject.”\n Related: Lakeith Stanfield: ‘I don’t hold anything back’ \n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/lakeith-stanfield-clubhouse-antisemitism-scandal",
-          "publishedOn": "2021-05-15T20:07:10.000Z",
-          "wordCount": 977,
-          "title": "‘I reject hate speech’: Lakeith Stanfield on Clubhouse antisemitism scandal"
+          "id": "https://www.theguardian.com/world/2021/may/16/un-chief-warns-israel-palestine-heading-uncontainable-crisis",
+          "author": "Oliver Holmes in Jerusalem, Bethan McKernan and Julian Borger in Washington",
+          "description": "Forty-two Palestinians killed by airstrikes in Gaza as Hamas launches more rocket attacks on Israel\nThe eruption of the Israeli-Palestinian conflict is heading for an “uncontainable security and humanitarian crisis”, the UN secretary general has warned after a day of significant escalation with 42 Palestinians killed by airstrikes in Gaza.\nThe death toll made it the deadliest single attack since fighting broke out between Israel and the Palestinian militant group Hamas a week ago. Fifty Palestinians were in…",
+          "link": "https://www.theguardian.com/world/2021/may/16/un-chief-warns-israel-palestine-heading-uncontainable-crisis",
+          "publishedOn": "2021-05-16T18:54:16.000Z",
+          "wordCount": 1126,
+          "title": "Israel and Palestine heading for ‘uncontainable’ crisis, UN chief warns"
         },
         {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/may/16/how-we-stay-together-its-like-the-bow-on-a-present-or-the-icing-on-a-cake",
-          "author": "Alexandra Spring",
-          "description": "Jayne and Jodie first got together in a way they describe as ‘so unplanned and so random’, but two decades on they’re more settled than ever\nNames: Jodie Nancarrow and Jayne Watson\nYears together: 20\nOccupations: retired\n“It was a one-night stand that’s lasted for 20 years,” jokes Jodie Nancarrow about her enduring relationship with wife Jayne Watson. And despite the casual start and some challenging times, their commitment to each other is still going strong.\n Continue reading...",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/may/16/how-we-stay-together-its-like-the-bow-on-a-present-or-the-icing-on-a-cake",
-          "publishedOn": "2021-05-15T20:00:37.000Z",
-          "wordCount": 1773,
-          "title": "How we stay together: ‘It’s like the bow on a present or the icing on a cake’"
+          "id": "https://www.theguardian.com/uk-news/2021/may/16/police-investigate-video-antisemitic-abuse-shouted-cars-london",
+          "author": "Nazia Parveen North of England correspondent",
+          "description": "Boris Johnson and Keir Starmer condemn ‘utterly disgusting’ footage of convoy in St John’s Wood \nFour men have been arrested by officers investigating a video that appeared to show antisemitic abuse being shouted from a car in north London.\nPoliticians had earlier condemned the footage, which was posted on Twitter and showed the cars travelling through the St John’s Wood area on Sunday afternoon. The cars were covered in Palestinian flags with a speaker blasting out antisemitic slurs and threats against Jew…",
+          "link": "https://www.theguardian.com/uk-news/2021/may/16/police-investigate-video-antisemitic-abuse-shouted-cars-london",
+          "publishedOn": "2021-05-16T18:53:48.000Z",
+          "wordCount": 774,
+          "title": "Four arrests over video ‘showing antisemitic abuse shouted from cars in London’"
         },
         {
-          "id": "https://www.theguardian.com/world/2021/may/15/from-eerie-folk-lullabies-to-bouncy-b-sides-ten-of-the-chills-best-songs",
-          "author": "Kiran Dass",
-          "description": "New Zealand band the Chills is releasing a new album, Scatterbrain. To celebrate, we count down 10 of their top songs\nA singular band, the Chills are difficult to stylistically define because their diverse sound traverses lush psychedelia, whimsy and gloom, punk rock and bright jangly pop. Known for their revolving door policy on band members, perhaps rivalled only by the Fall (there have been at least 33 members of the Chills over their 41-year career), the one constant is Martin Phillipps. And they’re bac…",
-          "link": "https://www.theguardian.com/world/2021/may/15/from-eerie-folk-lullabies-to-bouncy-b-sides-ten-of-the-chills-best-songs",
-          "publishedOn": "2021-05-15T20:00:36.000Z",
-          "wordCount": 1450,
-          "title": "From eerie folk lullabies to bouncy b-sides: Ten of the Chills’ best songs"
+          "id": "https://www.theguardian.com/world/2021/may/16/ignore-lockdown-easing-to-curb-indian-covid-variant-health-experts-urge",
+          "author": "Denis Campbell and Jessica Elgot",
+          "description": "Leading specialists call on the public to avoid socialising indoors to prevent a third wave of the disease\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nPeople should ignore Monday’s easing of lockdown and avoid socialising indoors in pubs and restaurants to prevent the new Covid-19 variant first detected in India sparking a third wave of the disease, health experts say.\nA former government chief scientific adviser, a leading public health specialist and the union representing Britain’s do…",
+          "link": "https://www.theguardian.com/world/2021/may/16/ignore-lockdown-easing-to-curb-indian-covid-variant-health-experts-urge",
+          "publishedOn": "2021-05-16T18:49:15.000Z",
+          "wordCount": 1485,
+          "title": "Ignore lockdown easing to curb Indian Covid variant, health experts urge"
+        },
+        {
+          "id": "https://www.theguardian.com/film/2021/may/16/matthew-mcconaughey-considering-run-texas-governor",
+          "author": "Martin Pengelly in New York",
+          "description": "Dallas Buyer’s Club star has been ‘quietly making calls to influential people in Texas political circles’, according to Politico\nThe actor Matthew McConaughey appears to be seriously considering entering politics, according to a report on Sunday which said the Dallas Buyer’s Club star has been “quietly making calls to influential people in Texas political circles” as he mulls a run for governor.\n Related: Caitlyn Jenner’s bid to be California’s next Governator is falling flat \n Continue reading...",
+          "link": "https://www.theguardian.com/film/2021/may/16/matthew-mcconaughey-considering-run-texas-governor",
+          "publishedOn": "2021-05-16T18:47:43.000Z",
+          "wordCount": 897,
+          "title": "Matthew McConaughey ‘making calls’ about run for Texas governor – report"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/16/tyson-fury-announces-he-will-fight-anthony-joshua-in-saudi-arabia",
+          "author": "PA Media",
+          "description": "Bout will take place on 14 August, Fury says on Twitter\nFirst time all four heavyweight world titles will be contested\n\nTyson Fury has announced his all-British heavyweight showdown with Anthony Joshua will take place in Saudi Arabia on 14 August.\nIn a video posted to Twitter, the 32-year-old said: “I have got some massive news. I have just got off the phone with Prince Khalid of Saudi Arabia and he told me this fight is 100 per cent on, August 14.”\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/may/16/tyson-fury-announces-he-will-fight-anthony-joshua-in-saudi-arabia",
+          "publishedOn": "2021-05-16T18:47:39.000Z",
+          "wordCount": 597,
+          "title": "Tyson Fury announces he will fight Anthony Joshua in Saudi Arabia"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/16/england-jofra-archer-new-zealand-tests-surgery",
+          "author": "Ali Martin",
+          "description": "Fast bowler’s persistent elbow problem flares up again\nMark Wood and Olly Stone set to offer pace options\n\nJofra Archer has been ruled out of England’s two-match Test series against New Zealand next month and is waiting to discover whether his persistent elbow problem requires an operation.\nThe fast bowler had made his first appearance of the season for Sussex in the latest round of County Championship fixtures but, having sent down 18 overs and claimed three wickets, did not bowl on the final two days of h…",
+          "link": "https://www.theguardian.com/sport/2021/may/16/england-jofra-archer-new-zealand-tests-surgery",
+          "publishedOn": "2021-05-16T18:43:13.000Z",
+          "wordCount": 670,
+          "title": "England’s Jofra Archer out of New Zealand Tests and may need surgery"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/may/16/lambeth-labour-council-leader-faces-sexual-harassment-probe",
+          "author": "Peter Walker",
+          "description": "London councillor, who resigned from post last week, is accused of sexual harassment and unwanted touching\nThe leader of one of Labour’s flagship local councils, who resigned from his role last week, is being investigated by the party over an allegation of sexual harassment and unwanted touching, the Guardian understands.\nLambeth council has rejected any link between the allegation and the announcement last week that Jack Hopkins was stepping aside after two years in the role. It is understood that Hopkins …",
+          "link": "https://www.theguardian.com/politics/2021/may/16/lambeth-labour-council-leader-faces-sexual-harassment-probe",
+          "publishedOn": "2021-05-16T18:06:18.000Z",
+          "wordCount": 586,
+          "title": "Lambeth Labour council leader faces sexual harassment probe"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/the-guardian-view-on-david-camerons-lobbying-a-cynical-defence-wont-wash",
+          "author": "Editorial",
+          "description": "Lobbying law needs updating because the government is run by people who know the price of everything and value of nothing\n\nLast week, David Cameron, Britain’s former Conservative prime minister, claimed rather implausibly that his frantic lobbying of ministers and officials last year on behalf of failed Australian financier Lex Greensill was motivated by public service rather than private gain. Mr Cameron could say this with a straight face because he would not reveal, in four hours of testimony to MPs, his…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/the-guardian-view-on-david-camerons-lobbying-a-cynical-defence-wont-wash",
+          "publishedOn": "2021-05-16T17:30:00.000Z",
+          "wordCount": 819,
+          "title": "The Guardian view on David Cameron’s lobbying: a cynical defence won’t wash | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/politics/2021/may/16/why-the-home-office-is-still-not-fit-for-purpose",
+          "author": "Letters",
+          "description": "Readers respond to coverage of the government department’s failings and to a letter from the civil servant who leads it\nI read Daniel Trilling’s article on the Home Office (Cruel, paranoid, failing: inside the Home Office, 13 May), and its story of delay, confrontation and the “hostile environment” echoed my experience of dealing with immigration cases as an MP. Time after time, people came to my surgeries pleading for help with the labyrinthine processes imposed on them by the Home Office, with many of the…",
+          "link": "https://www.theguardian.com/politics/2021/may/16/why-the-home-office-is-still-not-fit-for-purpose",
+          "publishedOn": "2021-05-16T17:26:01.000Z",
+          "wordCount": 2528,
+          "title": "Why the Home Office is  still not fit for purpose | Letters"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/the-guardian-view-on-declining-birthrates-there-may-be-trouble-ahead",
+          "author": "Editorial",
+          "description": "Europe’s ageing societies must make it easier for young people to start a family \nEurope’s baby deficit is becoming impossible to ignore. In Rome on Friday, Italy’s prime minister, Mario Draghi, and Pope Francis were the star attendees at a special conference to discuss the country’s declining birthrate. According to latest figures, 2020 saw the lowest number of births recorded since Italian unification in 1861. Spain is ageing at a similar pace, as is much of eastern Europe. In Britain, it is the same stor…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/the-guardian-view-on-declining-birthrates-there-may-be-trouble-ahead",
+          "publishedOn": "2021-05-16T17:25:00.000Z",
+          "wordCount": 825,
+          "title": "The Guardian view on declining birthrates: there may be trouble ahead | Editorial"
+        },
+        {
+          "id": "https://www.theguardian.com/education/2021/may/16/bawdy-monks-and-the-cerne-abbas-giant",
+          "author": "Letters",
+          "description": "Alice Raw of the University of Oxford and Richard North of University College London respond to research suggesting that the chalk hill figure in Dorset dates from Anglo-Saxon times\nWhy the surprise at a late 10th-century date for the Cerne Abbas giant (Cerne Giant in Dorset dates from Anglo-Saxon times, analysis suggests, 12 May)? If we find it hard to believe that the inmates of the monastery at Cerne Abbas could have sponsored the making of the giant, that says more about us than it does about them. Earl…",
+          "link": "https://www.theguardian.com/education/2021/may/16/bawdy-monks-and-the-cerne-abbas-giant",
+          "publishedOn": "2021-05-16T17:17:09.000Z",
+          "wordCount": 596,
+          "title": "Bawdy monks and the Cerne Abbas giant | Letters"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/as-foreign-travel-rules-ease-what-is-required-to-enter-the-uk-covid",
+          "author": "Jamie Grierson Home affairs correspondent",
+          "description": "With a range of proofs needed, the market for fake Covid test and vaccination certificates is booming \n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nWhen the UK reopens for foreign travel on Monday, a number of requirements for entry to the UK will be in force, involving a number of different types of tests and certificates.\n Related: Fake Covid vaccine and test certificate market is growing, researchers say \n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/may/16/as-foreign-travel-rules-ease-what-is-required-to-enter-the-uk-covid",
+          "publishedOn": "2021-05-16T17:01:15.000Z",
+          "wordCount": 607,
+          "title": "As foreign travel rules ease, what is required to enter the UK?"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/fauci-racism-covid-us-black-hispanic-native-americans-emory-university-graduation",
+          "author": "Associated Press in Atlanta",
+          "description": "White House medical adviser speaks to Emory graduates\nBiden aides defend controversial mask guidance change\n\nJoe Biden’s chief medical adviser, Dr Anthony Fauci, said on Sunday “the undeniable effects of racism” have worsened the coronavirus pandemic for Black, Hispanic and Native Americans.\n Related: Republican Covid lies follow foreign strongmen’s lead – and are deadly for it | Robert Reich \n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/may/16/fauci-racism-covid-us-black-hispanic-native-americans-emory-university-graduation",
+          "publishedOn": "2021-05-16T16:48:56.000Z",
+          "wordCount": 540,
+          "title": "Fauci: ‘Undeniable effects of racism’ have worsened Covid for US minorities"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/what-threat-does-indian-covid-variant-pose-and-do-vaccines-work-against-it",
+          "author": "Denis Campbell Health policy editor",
+          "description": "The number of identified cases of the B.1.617.2 variant in the UK has more than doubled in a week\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nThe number of identified cases of the Indian variant in the UK has more than doubled in a week, from 520 to 1,313, according to the most recent figures. The areas with the highest numbers so far include Bolton, Blackburn with Darwen, Erewash in Derbyshire and Bedford, all in England, and Moray in Scotland.\n Continue reading...",
+          "link": "https://www.theguardian.com/world/2021/may/16/what-threat-does-indian-covid-variant-pose-and-do-vaccines-work-against-it",
+          "publishedOn": "2021-05-16T16:45:27.000Z",
+          "wordCount": 721,
+          "title": "What threat does Indian Covid variant pose and do vaccines work against it?"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/may/16/joe-biden-feels-political-ground-shift-as-israel-gaza-conflict-rages-on",
+          "author": "Julian Borger in Washington",
+          "description": "Analysis: US president may find himself increasingly isolated in his resolute defence of Israel\nIn his staunch defence of Israel, Joe Biden is sticking to a course set decades ago as a young senator, and so far he has not given ground on the issue to the progressive wing of his party or many Jewish Democrats urging a tougher line towards Benjamin Netanyahu. \nBiden has even been prepared to face isolation at the UN security council, at the potential cost of his own credibility on multilateralism and human ri…",
+          "link": "https://www.theguardian.com/us-news/2021/may/16/joe-biden-feels-political-ground-shift-as-israel-gaza-conflict-rages-on",
+          "publishedOn": "2021-05-16T16:36:38.000Z",
+          "wordCount": 1042,
+          "title": "Joe Biden feels political ground shift as Israel-Gaza conflict rages on"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/may/16/critics-of-uk-low-traffic-schemes-told-that-25000-filters-already-existed",
+          "author": "Peter Walker",
+          "description": "Researchers find road blocks that we’d already accepted before introduction of divisive low-traffic neighbourhoods\nAt least 25,000 traffic filters similar to those found in low-traffic neighbourhoods already exist across the UK, research has shown, with campaigners saying it proves both the efficacy of such schemes and the futility of demands to scrap them.\nDozens have been built in cities over the last year by councils seeking to boost walking and cycling levels during the coronavirus pandemic, prompting a…",
+          "link": "https://www.theguardian.com/environment/2021/may/16/critics-of-uk-low-traffic-schemes-told-that-25000-filters-already-existed",
+          "publishedOn": "2021-05-16T16:19:14.000Z",
+          "wordCount": 794,
+          "title": "Critics of UK low-traffic schemes told that 25,000 filters already existed"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/16/egan-bernal-takes-giro-ditalia-lead-after-winning-ninth-stage",
+          "author": "PA Media",
+          "description": "Colombian rider pips Giulio Ciccone to win 158km stage\n‘My teammates had a lot of confidence in me, this is for them’\n\nEgan Bernal stormed to victory on the ninth stage of the Giro d’Italia to take the leader’s pink jersey.\nThe Colombian rider ended the stage, Castel di Sangro to Campo Felice, seven seconds clear of Giulio Ciccone and Aleksandr Vlasov following a fine finish to the 158km route.\n Continue reading...",
+          "link": "https://www.theguardian.com/sport/2021/may/16/egan-bernal-takes-giro-ditalia-lead-after-winning-ninth-stage",
+          "publishedOn": "2021-05-16T16:14:55.000Z",
+          "wordCount": 446,
+          "title": "Egan Bernal takes overall Giro d’Italia lead after winning ninth stage"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/universities-rape-culture-on-campus-students-protest",
+          "author": "Jessica Murray",
+          "description": "Sit-in protest over sexual misconduct at Warwick University enters its ninth week\n\nStudents at a sit-in protest over sexual misconduct at Warwick University that is entering its ninth week have said universities are still failing to tackle rape culture on campus.\nStudent group Protect Warwick Women has been camping in tents outside the student union building since March to protest over what they see as the university’s failure to tackle an “ingrained” problem of rape culture and sexual harassment on campus.…",
+          "link": "https://www.theguardian.com/world/2021/may/16/universities-rape-culture-on-campus-students-protest",
+          "publishedOn": "2021-05-16T16:12:38.000Z",
+          "wordCount": 958,
+          "title": "Universities are failing to tackle rape culture on campus, students say"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/may/16/lancashire-police-declare-major-incident-after-suspected-gas-explosion",
+          "author": "Jessica Murray",
+          "description": "Parents pay tribute to George Arthur Hinds as two adults remain critically injured in hospital\n\nA two-year-old boy has died and four other people have been injured in a suspected gas explosion in Heysham, Lancashire that destroyed two homes.\nA major incident was declared after the explosion on Mallowdale Avenue at about 2.30am on Sunday that also left a third house badly damaged.\n Continue reading...",
+          "link": "https://www.theguardian.com/uk-news/2021/may/16/lancashire-police-declare-major-incident-after-suspected-gas-explosion",
+          "publishedOn": "2021-05-16T15:52:50.000Z",
+          "wordCount": 807,
+          "title": "Two-year-old dies in suspected Lancashire gas explosion"
+        },
+        {
+          "id": "https://www.theguardian.com/business/2021/may/16/railway-braces-for-shake-up-and-cuts-as-overdue-review-arrives",
+          "author": "Gwyn Topham",
+          "description": "Biggest change since 90s privatisation looks to halt franchise failures, reform fares and, for the Treasury, slash costs\nSweeping reforms to bring the railway’s track and trains together under a new Great British Railways will be set out this week – but reforms of fares will be limited, with the industry braced to have its budget slashed.\nThe Treasury is understood to be demanding cost cuts of between 10% and 20% after expanding its subsidy to the rail industry by £10bn during the Covid-19 pandemic as fare …",
+          "link": "https://www.theguardian.com/business/2021/may/16/railway-braces-for-shake-up-and-cuts-as-overdue-review-arrives",
+          "publishedOn": "2021-05-16T15:40:32.000Z",
+          "wordCount": 809,
+          "title": "UK railways brace for shake-up and cuts as long-overdue review arrives"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/cash-strapped-algarve-awaits-return-uk-tourists-portugal-faro",
+          "author": "Mia Alberti in Faro",
+          "description": "People in Faro are relieved and excited but do not expect a speedy recovery from impact of Covid\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nTatiana stands by the counter of the souvenir shop where she works in downtown Faro, with little in the way of company besides the postcard racks, the shelves of trinkets and towels, and an all too familiar silence.\n“Only three customers have come into the shop so far today,” says Tatiana, who lost her job at Faro’s airport last October after her co…",
+          "link": "https://www.theguardian.com/world/2021/may/16/cash-strapped-algarve-awaits-return-uk-tourists-portugal-faro",
+          "publishedOn": "2021-05-16T15:38:04.000Z",
+          "wordCount": 1443,
+          "title": "‘I’m filled with hope’: cash-strapped Algarve awaits return of UK tourists"
+        },
+        {
+          "id": "https://www.theguardian.com/film/2021/may/16/what-films-to-see-as-cinemas-reopen",
+          "author": "Peter Bradshaw",
+          "description": "Grab your popcorn as we pick the best post-lockdown movie offerings – featuring a medieval thriller, a Ben Wheatley chiller and Emma Stone’s youthful Cruella\n\nMore events to enjoy: Pop | Art | Classical | Stage\n\n Frances McDormand delivers the performance of her career in this triple Oscar-winner from Chloé Zhao: best film, director and actress. It is a docu-fiction about the American phenomenon of “nomads”: sixtysomething retirees pauperised by the 2008 crash and roaming the country in camper vans looking …",
+          "link": "https://www.theguardian.com/film/2021/may/16/what-films-to-see-as-cinemas-reopen",
+          "publishedOn": "2021-05-16T15:30:00.000Z",
+          "wordCount": 1984,
+          "title": "From Black Widow to unseen Beatles footage: what films to see as cinemas reopen"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/international-effort-china-crimes-xinjiang-uyghur-",
+          "author": "Jewher Ilham and Sophie Richardson",
+          "description": "As the daughter of a Uyghur economist imprisoned for life, I call on governments and the UN to act together\n\nJewher Ilham, the daughter of Ilham Tohti, is an author at the Project to Combat Forced Labor at the Worker Rights Consortium. Sophie Richardson is China director at Human Rights Watch\n\nChina’s president, Xi Jinping, declared back in 2014 in a series of speeches delivered in private to officials that he intended to crack down harshly in Xinjiang, the north-western region of China where about 13 milli…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/international-effort-china-crimes-xinjiang-uyghur-",
+          "publishedOn": "2021-05-16T15:29:02.000Z",
+          "wordCount": 1181,
+          "title": "Only an international effort can put an end to China’s crimes in Xinjiang | Jewher Ilham and Sophie Richardson"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/2021/may/16/liz-cheney-regrets-vote-donald-trump-republican-party-civil-war-kinzinger-stefanik",
+          "author": "Martin Pengelly in New York",
+          "description": "Crenshaw, Kinzinger and others exchange shots on talk shows\nWill Republicans back a Capitol attack commission?\n\nLiz Cheney has become the figurehead of the conservative Never Trumpers – but the Wyoming congresswoman was for the former president in the last election.\n Related: Can ‘Never Trump’ Republicans gain party control – or is it a lost cause? \n Continue reading...",
+          "link": "https://www.theguardian.com/us-news/2021/may/16/liz-cheney-regrets-vote-donald-trump-republican-party-civil-war-kinzinger-stefanik",
+          "publishedOn": "2021-05-16T15:22:09.000Z",
+          "wordCount": 1212,
+          "title": "Liz Cheney defiant over Trump as Republican civil war heats up"
+        },
+        {
+          "id": "https://www.theguardian.com/stage/2021/may/16/tony-armatrading-obituary",
+          "author": "Michael Coveney",
+          "description": "Stage and screen actor who enjoyed success with the RSC and in many TV and film roles, including Empire Road and Notting Hill\nTony Armatrading, who has died aged 59 of cancer, was a big, warm-hearted actor in the second wave of black British performers who began to make an impact in theatre and television in the mid-1970s. Before relocating to Los Angeles in 1999, he had three busy seasons with the Royal Shakespeare Company and featured impressively in contemporary black theatre classics at the Theatre Roya…",
+          "link": "https://www.theguardian.com/stage/2021/may/16/tony-armatrading-obituary",
+          "publishedOn": "2021-05-16T15:10:54.000Z",
+          "wordCount": 1415,
+          "title": "Tony Armatrading obituary"
+        },
+        {
+          "id": "https://www.theguardian.com/society/2021/may/16/london-tower-block-residents-warned-of-smoke-danger-two-years-before-fire",
+          "author": "Robert Booth Social affairs correspondent",
+          "description": "People in building with Grenfell-style cladding and combustible balconies also said fire wardens were ineffective\nResidents of an east London tower block that caught fire earlier this month had warned about the danger of smoke spread and protested that fire wardens were ineffective during a years-long wrangle to make their homes safe, the Guardian has learned.\nLeaseholders at New Providence Wharf, which has Grenfell-style cladding and combustible wooden balconies, told the developer Ballymore more than two …",
+          "link": "https://www.theguardian.com/society/2021/may/16/london-tower-block-residents-warned-of-smoke-danger-two-years-before-fire",
+          "publishedOn": "2021-05-16T14:48:45.000Z",
+          "wordCount": 1388,
+          "title": "London tower block residents warned of smoke danger two years before fire"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/palestinians-protesting-live-regime-oppression",
+          "author": "Mariam Barghouti",
+          "description": "Just as the Black Lives Matter protests were not only about one killing, we are facing a whole regime of oppression\nI started going to demonstrations when I was 17. At first, I went to protests against Israel’s military occupation. Then we also began to protest against the authoritarianism of the Palestinian Authority and Hamas, and the sickening rivalry between Palestinian political factions. For Palestinians, protest has become a way of life – a way to be steadfast, to persevere.\nOver the past decade, muc…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/palestinians-protesting-live-regime-oppression",
+          "publishedOn": "2021-05-16T14:26:27.000Z",
+          "wordCount": 959,
+          "title": "Why are Palestinians protesting? Because we want to live | Mariam Barghouti"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/16/opportunities-beckon-as-eddie-jones-ponders-options-for-summer-tests",
+          "author": "Robert Kitson",
+          "description": "Marcus Smith and Max Malins could be in tandem for England’s June games against United States and Canada at Twickenham\nPremiership crowds are finally returning from Monday evening and the chance to nudge the national selectors offers a further powerful incentive as the business end of the domestic season approaches. With 11 England players making the British and Irish Lions tour party there is obvious scope for summer experimentation, just as there was in Argentina in 2017 when, among others, Tom Curry made…",
+          "link": "https://www.theguardian.com/sport/2021/may/16/opportunities-beckon-as-eddie-jones-ponders-options-for-summer-tests",
+          "publishedOn": "2021-05-16T14:13:17.000Z",
+          "wordCount": 1170,
+          "title": "Opportunities beckon as Eddie Jones ponders options for summer Tests"
+        },
+        {
+          "id": "https://www.theguardian.com/news/gallery/2021/may/16/swimming-with-coral-chilean-elections-weekend-in-pictures",
+          "author": "Jo Blason",
+          "description": "The Guardian’s picture editors select photo highlights from around the world\n Continue reading...",
+          "link": "https://www.theguardian.com/news/gallery/2021/may/16/swimming-with-coral-chilean-elections-weekend-in-pictures",
+          "publishedOn": "2021-05-16T13:56:39.000Z",
+          "wordCount": 818,
+          "title": "Swimming among coral and Chilean elections – the weekend in pictures"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/trouble-brews-between-trappist-monks-and-belgian-mineral-empire",
+          "author": "Daniel Boffey in Rochefort, Belgium",
+          "description": "David and Goliath legal battle ensues as silent religious order seeks to protect the taste of its beer\n\nFor a decade the monks of Notre-Dame de Saint-Remy, in Rochefort, south Belgium – one of only 14 abbeys in the world producing Trappist beer – have been fighting with a quarry owner over the purity of the local spring water.\nThe monks have doggedly claimed that plans by Lhoist, an international company run by one of Belgium’s richest families, to deepen its chalk quarry and redirect the Tridaine spring ri…",
+          "link": "https://www.theguardian.com/world/2021/may/16/trouble-brews-between-trappist-monks-and-belgian-mineral-empire",
+          "publishedOn": "2021-05-16T13:36:59.000Z",
+          "wordCount": 679,
+          "title": "Trouble brews between Trappist monks and Belgian mineral empire"
+        },
+        {
+          "id": "https://www.theguardian.com/media/2021/may/16/sex-education-writer-aims-to-boost-diversity-in-tv-with-fellowship-scheme",
+          "author": "Tara Conlan",
+          "description": "Bisha K Ali teams up with Netflix and Sky to support six screenwriters from minority backgrounds\nThe Sex Education and Ms Marvel writer Bisha K Ali is launching a screenwriting fellowship with Netflix and Sky that will give six people from under-represented communities a year’s salary in an effort to make the TV industry more inclusive.\nAli hopes that taking away the “sense of clawing financial instability” that many young writers face will reduce the barriers to entry for people from black, Asian and other…",
+          "link": "https://www.theguardian.com/media/2021/may/16/sex-education-writer-aims-to-boost-diversity-in-tv-with-fellowship-scheme",
+          "publishedOn": "2021-05-16T13:16:03.000Z",
+          "wordCount": 924,
+          "title": "Sex Education writer aims to boost diversity in TV with fellowship scheme"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/england-future-left-leaning-south-conservative-north",
+          "author": "John Harris",
+          "description": "The pandemic has accelerated the movement of people, creating clusters of like-minded, homogenous communities\nLondon is changing, and so is the south of England. Whether recent predictions of a lasting drop in the capital’s population and emptied-out office districts will come true is still unclear. But something has definitely been happening, for the best part of a year: thanks to Covid and its disruptions, a sizeable number of people are deciding to leave the city and head elsewhere, chasing space, greene…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/england-future-left-leaning-south-conservative-north",
+          "publishedOn": "2021-05-16T13:11:41.000Z",
+          "wordCount": 1369,
+          "title": "Could England’s future be a left-leaning south facing off against a conservative north? | John Harris"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/may/16/readers-reply-do-peoples-names-affect-their-personality",
+          "author": "",
+          "description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nDo people’s names affect their personality? Max Crane, Sydney\nSend new questions to nq@theguardian.com.\n Continue reading...",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/may/16/readers-reply-do-peoples-names-affect-their-personality",
+          "publishedOn": "2021-05-16T13:00:55.000Z",
+          "wordCount": 1912,
+          "title": "Readers reply: do people’s names affect their personality?"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/first-hand-stories-nazi-death-marches-wiener-holocaust-library",
+          "author": "Caroline Davies",
+          "description": "Wiener Holocaust Library in London has gathered testimonies and photographs of forced evacuations at end of second world war\nFirst-hand accounts from survivors of Nazi death marches, which formed a last ruthless chapter of the genocide, are to go on display with testimonies translated into English for the first time.\nDuring the death marches, tens of thousands of people died on roadsides of exhaustion, shot for failing to keep up, or murdered in seemingly random massacres as the Nazis moved people from conc…",
+          "link": "https://www.theguardian.com/world/2021/may/16/first-hand-stories-nazi-death-marches-wiener-holocaust-library",
+          "publishedOn": "2021-05-16T12:50:01.000Z",
+          "wordCount": 796,
+          "title": "First-hand stories shed new light on Nazi death marches"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/un-favours-mauritian-control-over-chagos-islands-by-rejecting-uk-stamps",
+          "author": "Haroon Siddique Legal affairs correspondent",
+          "description": "Refusal to recognise British Indian Ocean Territory stamps is latest move to assert Mauritian sovereignty\nStamps issued by the British Indian Ocean Territory could soon be rendered invalid after the United Nations’ Universal Postal Union (UPU) council recommended they no longer be recognised, in the latest step rejecting the UK’s claim to the Chagos Islands.\nThe move by the UPU, the second oldest international organisation, is in recognition of Mauritian sovereignty over the strategically important islands …",
+          "link": "https://www.theguardian.com/world/2021/may/16/un-favours-mauritian-control-over-chagos-islands-by-rejecting-uk-stamps",
+          "publishedOn": "2021-05-16T12:46:10.000Z",
+          "wordCount": 601,
+          "title": "UN champions Mauritian control of Chagos Islands by rejecting UK stamps"
+        },
+        {
+          "id": "https://www.theguardian.com/media/2021/may/16/bbc-delays-panorama-programme-on-bashir-interview-with-diana",
+          "author": "PA Media",
+          "description": "Monday’s scheduled broadcast of investigation postponed because of ‘significant duty of care issue’\n\nThe BBC has delayed the broadcast of a Panorama investigation into Martin Bashir’s 1995 interview with Diana, Princess of Wales.\nThe programme was expected to air on BBC One on Monday but has been postponed due to a “significant duty of care issue”, according to the broadcaster. A new broadcast date has not yet been confirmed.\n Continue reading...",
+          "link": "https://www.theguardian.com/media/2021/may/16/bbc-delays-panorama-programme-on-bashir-interview-with-diana",
+          "publishedOn": "2021-05-16T12:35:34.000Z",
+          "wordCount": 442,
+          "title": "BBC delays Panorama programme on Bashir interview with Diana"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/animals-feel-humans-evidence-sentient",
+          "author": "Jonathan Birch",
+          "description": "Government proposals to recognise vertebrates as sentient beings are welcome, but this should be just the start\nLook a dog in the eye and a conscious being looks back. A being that feels hunger, thirst, warmth, cold, fear, comfort, pleasure, pain, joy. No one can seriously doubt this. The same is true of any mammal. You cannot watch rats playing hide and seek and doubt that they have feelings – that they are sentient creatures. But as animals become more distant from us in evolutionary terms, some doubt beg…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/animals-feel-humans-evidence-sentient",
+          "publishedOn": "2021-05-16T12:13:53.000Z",
+          "wordCount": 1215,
+          "title": "What do animals feel? Humans must follow the evidence to find out | Jonathan Birch"
+        },
+        {
+          "id": "https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow",
+          "author": "Tim Adams",
+          "description": "The Nobel-winning psychologist on applying his ideas to organisations, why we’re not equipped to grasp the spread of a virus, and the massive disruption that’s just round the corner\nDaniel Kahneman, 87, was awarded the Nobel prize in economics in 2002 for his work on the psychology of judgment and decision-making. His first book, Thinking, Fast and Slow, a worldwide bestseller, set out his revolutionary ideas about human error and bias and how those traits might be recognised and mitigated. A new book, Nois…",
+          "link": "https://www.theguardian.com/books/2021/may/16/daniel-kahneman-clearly-ai-is-going-to-win-how-people-are-going-to-adjust-is-a-fascinating-problem-thinking-fast-and-slow",
+          "publishedOn": "2021-05-16T12:00:54.000Z",
+          "wordCount": 2063,
+          "title": "Daniel Kahneman: ‘Clearly AI is going to win. How people are going to adjust is a fascinating problem’"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/may/16/the-making-of-rodin-tate-modern-review-plaster",
+          "author": "Laura Cumming",
+          "description": "Tate Modern, London\nA succession of plaster arms, legs and heads reveal Rodin’s working practices in a fascinating show that nevertheless leaves you longing for the finished work\nThe Making of Rodin is a show almost entirely composed of plaster casts: fragile and small, delicate or solid, heavyweight, lifesize or gargantuan. It is thronged with figure groups, solo statues, trays of hands and feet in glass cases. Smooth, chipped, marked up in pencil for rearrangement or enlargement, provisional studies or fi…",
+          "link": "https://www.theguardian.com/artanddesign/2021/may/16/the-making-of-rodin-tate-modern-review-plaster",
+          "publishedOn": "2021-05-16T12:00:54.000Z",
+          "wordCount": 1025,
+          "title": "The Making of Rodin review – the sculptor in a ghostly new light"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/hancock-defends-india-travel-ban-delay-as-covid-variant-cases-mount",
+          "author": "Jessica Elgot Deputy political editor",
+          "description": "Health secretary’s comments come amid mounting concerns over spread of Indian B.1.617.2 variant\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nThe majority of people in hospital with Covid in Bolton were eligible for the vaccine but have not had it, Matt Hancock has said, saying that health authorities would go “door-to-door” offering jabs.\nHis comments came as concern mounted over increased cases of the B.1.617.2 variant first detected in India, particularly in the north-west and parts of …",
+          "link": "https://www.theguardian.com/world/2021/may/16/hancock-defends-india-travel-ban-delay-as-covid-variant-cases-mount",
+          "publishedOn": "2021-05-16T11:40:10.000Z",
+          "wordCount": 1314,
+          "title": "Hancock: most Bolton Covid patients eligible for jab but haven’t had it"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/may/16/half-of-emissions-cuts-will-come-from-future-tech-says-john-kerry",
+          "author": "Jessica Murray",
+          "description": "US climate envoy says people will not have to give up quality of life to achieve some of net zero goals\nThe US climate envoy, John Kerry, has said 50% of the carbon reductions needed to get to net zero will come from technologies that have not yet been invented, and said people “don’t have to give up a quality of life” in order to cut emissions.\nHe said Americans would “not necessarily” have to eat less meat, because of research being done into the way cattle are herded and fed in order to reduce methane em…",
+          "link": "https://www.theguardian.com/environment/2021/may/16/half-of-emissions-cuts-will-come-from-future-tech-says-john-kerry",
+          "publishedOn": "2021-05-16T11:01:48.000Z",
+          "wordCount": 642,
+          "title": "Half of emissions cuts will come from future tech, says John Kerry"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/ferdinand-montoya-filipino-family-recipes-chicken-inasal-seafood-sinigang-cassava-cheesecake",
+          "author": "Interview by Molly Tait-Hyland, recipes by Ferdinand Montoy",
+          "description": "Chicken in coconut vinegar, vegetables with fermented shrimp, and cassava cheesecake – the Sarap chef’s homage to his mother’s cooking \nI was born in Mindanao, in the south of the Philippines, but I grew up in Sydney. We used to return quite often when I was younger, but there was a lot of instability during the late 1990s and early 00s, so we stopped and I never really went back. I tried to be as Aussie as possible, assimilate as much as I could. “Budgie” is an old nickname I’ve had since high school when …",
+          "link": "https://www.theguardian.com/food/2021/may/16/ferdinand-montoya-filipino-family-recipes-chicken-inasal-seafood-sinigang-cassava-cheesecake",
+          "publishedOn": "2021-05-16T11:00:53.000Z",
+          "wordCount": 2445,
+          "title": "Ferdinand ‘Budgie’ Montoya’s Filipino family recipes"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/lockdowns-and-panic-buying-in-taiwan-as-covid-cases-rise",
+          "author": "Helen Davidson in Taipei",
+          "description": "Country widely considered to have had one of best pandemic responses now racing to contain outbreak\n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nTaiwan reported 206 new local cases of Covid-19 on Sunday, breaking the previous day’s record high of 180 as authorities brought in the strictest measures yet in a bid to contain the virus. \nThe outbreak, which began about three weeks ago among employees of the national airline and a connected quarantine hotel, has now produced about 85% of Taiwa…",
+          "link": "https://www.theguardian.com/world/2021/may/16/lockdowns-and-panic-buying-in-taiwan-as-covid-cases-rise",
+          "publishedOn": "2021-05-16T10:38:23.000Z",
+          "wordCount": 895,
+          "title": "Lockdowns and panic-buying in Taiwan as Covid cases rise"
+        },
+        {
+          "id": "https://www.theguardian.com/us-news/commentisfree/2021/may/16/ignore-the-hype-of-republicans-threatening-to-break-away-over-trump",
+          "author": "Cas Mudde",
+          "description": "Anti-Trump Republicans get lots of media attention. That doesn’t mean they are relevant within the Republican party\n“Over 100 Republicans, including former officials, threaten to split” from the Republican party, the New York Times declared on Tuesday. The next day the Washington Post upped the ante, headlining that the 100 Republicans were vowing “civil war”; the columnist Jennifer Rubin proclaimed the beginning of “the stampede away from the GOP”.\nSounds exciting, but what has really happened?\n Continue r…",
+          "link": "https://www.theguardian.com/us-news/commentisfree/2021/may/16/ignore-the-hype-of-republicans-threatening-to-break-away-over-trump",
+          "publishedOn": "2021-05-16T10:20:52.000Z",
+          "wordCount": 1227,
+          "title": "Ignore the hype of Republicans threatening to ‘break away’ over Trump | Cas Mudde"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/may/16/20-arrested-after-rangers-fans-march-in-central-glasgow",
+          "author": "Libby Brooks Scotland correspondent",
+          "description": "Three police reported injured after crowd gathered to celebrate title win despite rising Covid infection rates\nRangers supporters who marched on Glasgow’s George Square to celebrate their club’s Scottish Premiership win, as the city faces a surge in Covid infections and an extension of lockdown, have been condemned as selfish, irresponsible and endangering lives after the rally descended into violence.\nFirst minister Nicola Sturgeon said she was “utterly disgusted by the Rangers fans who rampaged through th…",
+          "link": "https://www.theguardian.com/uk-news/2021/may/16/20-arrested-after-rangers-fans-march-in-central-glasgow",
+          "publishedOn": "2021-05-16T10:02:14.000Z",
+          "wordCount": 873,
+          "title": "Twenty arrested after Rangers fans march in central Glasgow"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/the-new-food-stars-of-tiktok",
+          "author": "Sirin Kale",
+          "description": "The app’s snappy videos are the new gateway to food fame. Its breakout stars explain the secrets of their success\nWhen Poppy O’Toole was made redundant from her job as junior sous chef at the AllBright private members club in Mayfair during the first wave of the pandemic, she expected to return to work soon enough. “I thought, I’ve got three weeks to cook some nice food at home,” 27-year-old O’Toole remembers, “and be back in work in a few weeks.”\nWith lockdown opening up in front of her, O’Toole decided to…",
+          "link": "https://www.theguardian.com/food/2021/may/16/the-new-food-stars-of-tiktok",
+          "publishedOn": "2021-05-16T10:00:52.000Z",
+          "wordCount": 2150,
+          "title": "The new food stars of TikTok"
+        },
+        {
+          "id": "https://www.theguardian.com/sport/2021/may/16/yosemite-national-park-rock-climbing-permit",
+          "author": "Erin McCormick",
+          "description": "The national park is instituting a permitting system for overnight rock climbers. Many see it as inevitable as the sport gets more popular\nFor years, rock climbers Graham Ottley and Keith Bouma-Gregson dreamed of scaling the 2,800ft (853 meters) pillar of granite known as the Lost Arrow Spire in Yosemite national park.\nIn early May the pair finally got their chance, making a climb that required spending two windy nights camped on tiny ledges with harnesses holding them to the rocks. But Ottley and Bouma-Gre…",
+          "link": "https://www.theguardian.com/sport/2021/may/16/yosemite-national-park-rock-climbing-permit",
+          "publishedOn": "2021-05-16T10:00:52.000Z",
+          "wordCount": 1221,
+          "title": "Free solo … with a permit: will Yosemite’s new rules put a damper on climbing culture?"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/may/16/epic-iran-5000-years-of-culture-v-and-a-exhibition-ina-sarikhani-sandmann",
+          "author": "Rachel Cooke",
+          "description": "Five thousand years of Iranian art goes on show at the V&A this month. A private collector who lent many of the works reveals what light these treasures cast on the country\nThe drive from London to a certain nameless valley in rural Oxfordshire - a preposterously pretty realm of flint cottages, quaint pubs, willow trees and gentle hills - is always slightly unnerving. This part of the country is so close to London and yet the feeling is of stepping back in time, a remoteness that is sudden and unexpected. B…",
+          "link": "https://www.theguardian.com/artanddesign/2021/may/16/epic-iran-5000-years-of-culture-v-and-a-exhibition-ina-sarikhani-sandmann",
+          "publishedOn": "2021-05-16T10:00:52.000Z",
+          "wordCount": 2770,
+          "title": "‘Iranian culture has huge depths and continues to be relevant today’"
+        },
+        {
+          "id": "https://www.theguardian.com/culture/2021/may/16/were-ready-for-you-english-galleries-and-museums-throw-open-their-doors",
+          "author": "Vanessa Thorpe",
+          "description": "With few overseas tourists, curators think there has never been a better time for Britons to see their own national treasures\nLeading museum and gallery directors have urged the public to grab a once-in-a-lifetime chance to see national treasures up close when the buildings reopen in England on Monday. Social distancing means that great art, like the newly restored Gainsborough, Cornard Wood, at the National Gallery, or the precious archaeological finds from Sutton Hoo in the British Museum, will be easier …",
+          "link": "https://www.theguardian.com/culture/2021/may/16/were-ready-for-you-english-galleries-and-museums-throw-open-their-doors",
+          "publishedOn": "2021-05-16T09:45:51.000Z",
+          "wordCount": 1173,
+          "title": "‘We’re ready for you’: English galleries and museums throw open their doors"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/nigel-slater-recipes-spring-vegetable-tart-and-ricotta-stracciatella-dessert",
+          "author": "Nigel Slater",
+          "description": "Capture the taste of spring with green veg and a fresh fruit trifle\nI bring radishes home, two bunches at a time, snowy tipped and bushy leaved, and plunge them, leaves and all, into deep, icy water. It feels like the start of something. And so it is, with those late-spring, early-summer trips to the greengrocer, coming home with peas and broad beans – tiny, like doll’s house vegetables – the first tomatoes from the Isle of Wight and, of course, asparagus. There is mint and basil in pots on the windowsill g…",
+          "link": "https://www.theguardian.com/food/2021/may/16/nigel-slater-recipes-spring-vegetable-tart-and-ricotta-stracciatella-dessert",
+          "publishedOn": "2021-05-16T09:30:51.000Z",
+          "wordCount": 1078,
+          "title": "Nigel Slater’s recipes for a spring vegetable tart, and ricotta stracciatella dessert"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/how-will-isolation-affect-long-term-immunity",
+          "author": "Amelia Tait",
+          "description": "Healthy immune systems work best when exposed to microbes. So what will lockdown have done to our resistance to germs? \nEvery time you kiss another human being intimately for 10 seconds, more than 80m bacteria are transferred from mouth to mouth. If you’re at a party and double dip your tortilla chip into the salsa three times, around 10,000 bacteria will be transferred from your lips to the dip. Say “hi” to your co-workers as you sit down at your office desk and you’ll also be greeted by over 10m bacteria …",
+          "link": "https://www.theguardian.com/world/2021/may/16/how-will-isolation-affect-long-term-immunity",
+          "publishedOn": "2021-05-16T09:00:52.000Z",
+          "wordCount": 2216,
+          "title": "How will isolation affect long-term immunity?"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/pity-the-poor-standup-in-boris-johnsons-kleptocracy",
+          "author": "Stewart Lee",
+          "description": "How’s a comedian supposed to be keep pace with this ever more farcical government and its diktats?\nLike a great sloppy spaff, the flying shit of the Queen’s speech has hit the fan of functioning democracy full in the face. More than two million of the electorate least likely to support Boris Johnson are to be robbed of their right to vote, while millions of the sort of true Brits who moved to Spain when the local shopping centre installed a Muslamic prayer room are to have theirs reinstated; key environment…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/pity-the-poor-standup-in-boris-johnsons-kleptocracy",
+          "publishedOn": "2021-05-16T09:00:51.000Z",
+          "wordCount": 1193,
+          "title": "Pity the poor standup in Boris Johnson’s kleptocracy | Stewart Lee"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/mexico-chinese-massacre-centenary-torreon",
+          "author": "David Agren in Torreón",
+          "description": "President Andrés Manuel López Obrador will mark the killings of 303 Chinese people during the revolution that the city of Torreón has tried to forget\nThe first to die were Chinese agricultural workers, who were killed in the orchards and gardens surrounding the Mexican city of Torreón by advancing revolutionary forces in the early hours of 13 May 1911.\nAfter skirmishes at the outskirts of the city, the outnumbered federal garrison abandoned their positions and slipped away under the cover of darkness.\n Cont…",
+          "link": "https://www.theguardian.com/world/2021/may/16/mexico-chinese-massacre-centenary-torreon",
+          "publishedOn": "2021-05-16T09:00:51.000Z",
+          "wordCount": 1165,
+          "title": "Mexico faces up to uneasy anniversary of Chinese massacre"
+        },
+        {
+          "id": "https://www.theguardian.com/science/2021/may/16/tiny-traces-of-dna-found-in-cave-dust-may-unlock-secret-life-of-neanderthals",
+          "author": "Robin McKie Science editor",
+          "description": "Advanced technique used to recover genetic material may help solve the mystery of early man\nScientists have pinpointed major changes in Europe’s Neanderthal populations – from traces of blood and excrement they left behind in a Spanish cave 100,000 years ago.\nThe discovery is the first important demonstration of a powerful new technique that allows researchers to study DNA recovered from cave sediments. No fossils or stone tools are needed for such studies. Instead, minuscule traces of genetic material that…",
+          "link": "https://www.theguardian.com/science/2021/may/16/tiny-traces-of-dna-found-in-cave-dust-may-unlock-secret-life-of-neanderthals",
+          "publishedOn": "2021-05-16T08:45:50.000Z",
+          "wordCount": 949,
+          "title": "Tiny traces of DNA found in cave dust may unlock secret life of Neanderthals"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/i-fled-syria-with-just-12-now-i-have-my-own-restaurant-in-soho",
+          "author": "Nosheen Iqbal",
+          "description": "Imad Alarnab lost everything to the war. He never dreamed he could rebuild his restaurants in the UK\nWhen Imad Alarnab, a Syrian chef, arrived in the UK as a refugee five years ago, he could barely afford to eat. Meals were regularly skipped and a Snickers bar could be eked out over a whole day to help him survive. On Monday, the 43-year-old father of three will be celebrating lockdown rules easing with a fairytale twist: Alarnab will be opening the doors to his very own central London restaurant.\n“This is …",
+          "link": "https://www.theguardian.com/food/2021/may/16/i-fled-syria-with-just-12-now-i-have-my-own-restaurant-in-soho",
+          "publishedOn": "2021-05-16T08:45:50.000Z",
+          "wordCount": 800,
+          "title": "I fled Syria with just £12 … now I have my own restaurant in Soho"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/may/16/the-secret-of-how-amundsen-beat-scott-in-race-to-south-pole-a-diet-of-raw-penguin",
+          "author": "Donna Ferguson",
+          "description": "Starving and trapped by ice, the Norwegian’s crew had discovered how to beat scurvy on an earlier voyage. The benefits proved crucial\nThirteen years before he became the first person ever to reach the south pole in 1911, the Norwegian explorer Roald Amundsen experienced his first merciless taste of winter in the Antarctic. Stuck onboard the Belgian expedition ship Belgica, which was grounded in pack ice, he and the rest of the crew contracted scurvy and faced certain death.\nThat is when, according to a new …",
+          "link": "https://www.theguardian.com/environment/2021/may/16/the-secret-of-how-amundsen-beat-scott-in-race-to-south-pole-a-diet-of-raw-penguin",
+          "publishedOn": "2021-05-16T08:15:49.000Z",
+          "wordCount": 1143,
+          "title": "The secret of how Amundsen beat Scott in race to south pole? A diet of raw penguin"
+        },
+        {
+          "id": "https://www.theguardian.com/tv-and-radio/2021/may/16/joanna-scanlan-after-love-interview",
+          "author": "Claire Armitstead",
+          "description": "Loved for her biting comedy roles, the actor is enjoying a late-blooming career. She talks about playing a convert to Islam in After Love, and her TV series about women’s sex lives during lockdown\nJoanna Scanlan is sitting in splendid isolation in a country house hotel in Sussex, where she has been transforming herself into HE Bates’s voluptuous matriarch, Ma Larkin, for a six-part ITV miniseries. But we’re not here to talk about the Larkins, or any of the other TV roles that have earned her a place as one …",
+          "link": "https://www.theguardian.com/tv-and-radio/2021/may/16/joanna-scanlan-after-love-interview",
+          "publishedOn": "2021-05-16T08:00:49.000Z",
+          "wordCount": 1729,
+          "title": "Joanna Scanlan: ‘People do seem to ask me to take my clothes off all the time’"
+        },
+        {
+          "id": "https://www.theguardian.com/commentisfree/2021/may/16/labour-will-not-see-power-again-until-it-remembers-the-essentials-of-winning",
+          "author": "Andrew Rawnsley",
+          "description": "On the all too rare occasions when it has achieved office in the past, Labour has done so with a broad appeal attracting diverse groups of voters\nNo political party has a divine right to exist. If they did, Britain would still be ruled by the Whigs. There have been a lot of doomy prognostications about Labour’s life expectancy since the big set of elections that alarmed many people in the party with the thought that the calamitous 2019 performance might not be the lowest they could go. \nA trauma was then tu…",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/16/labour-will-not-see-power-again-until-it-remembers-the-essentials-of-winning",
+          "publishedOn": "2021-05-16T07:30:48.000Z",
+          "wordCount": 1658,
+          "title": "Labour won’t see power again until it remembers the essentials of winning | Andrew Rawnsley"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/may/16/could-engineered-coral-save-the-planets-reefs-from-destruction",
+          "author": "Robin McKie Science editor",
+          "description": "London Zoo’s latest exhibition shows how scientists hope to halt the devastation caused by overheated oceans\nThis weekend, conservationists will put the final touches to a giant artificial reef they are assembling at London zoo. Samples of the planet’s most spectacular corals – vivid green branching coral, yellow scroll, blue ridge and many more species – will be added to the giant tank along with fish that thrive in their presence: blue tang, clownfish and many others.\nThe scene will then be set for Monday…",
+          "link": "https://www.theguardian.com/environment/2021/may/16/could-engineered-coral-save-the-planets-reefs-from-destruction",
+          "publishedOn": "2021-05-16T07:15:48.000Z",
+          "wordCount": 1095,
+          "title": "Could ‘engineered’ coral save the planet’s reefs from destruction?"
+        },
+        {
+          "id": "https://www.theguardian.com/culture/2021/may/16/nish-kumar-standup-comedian-do-they-just-hate-my-jokes",
+          "author": "Tom Lamont",
+          "description": "Nish Kumar considers himself a mild-mannered British Asian man who does comedy. So why does he attract so much rage from the rightwing press and social media?\nHide your commemorative Brexit coins! Here comes Nish Kumar, scourge of the sensible right, pirate-chief of the woke left, swinging in fresh from a morning spent toppling statues, hexing Conservative politicians, rolling up Union Jack flags and smoking them like giant cartoon cigars… Kidding. The real Nish Kumar is boyish and bearded, a 35-year-old co…",
+          "link": "https://www.theguardian.com/culture/2021/may/16/nish-kumar-standup-comedian-do-they-just-hate-my-jokes",
+          "publishedOn": "2021-05-16T07:00:50.000Z",
+          "wordCount": 2619,
+          "title": "Nish Kumar: ‘Do they just hate my jokes?’"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2021/may/16/celebrity-divorces-bill-melinda-gates-jeff-bezos-mackenzie",
+          "author": "Edward Helmore",
+          "description": "With such high-profile splits at Bill and Melinda Gates and Jeff and Mackenzie Bezos, some say the wealthy play by their own rules but celebrities often set standards the rest of us follow\nA cascade of recent high-profile divorces of the very rich and famous has presented new questions for the divorce industry – and offered a voyeuristic thrill-ride for millions of the less well-known.\nSome of the divorces of recent years have apparently been amicable or pseudo-amicable, such as the tech billionaires Bill a…",
+          "link": "https://www.theguardian.com/lifeandstyle/2021/may/16/celebrity-divorces-bill-melinda-gates-jeff-bezos-mackenzie",
+          "publishedOn": "2021-05-16T07:00:49.000Z",
+          "wordCount": 1233,
+          "title": "Divorces of the rich and famous: a 1% solution or the start of a trend?"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/we-can-get-a-table-inside-again-but-whats-the-future-of-restaurants",
+          "author": "Tony Naylor",
+          "description": "Restaurants across the UK are ready to open, indoors and out. We ask a top chef, a restaurateur and a street food team where the hospitality industry will go from here\nTom Kerridge\nThe Hand & Flowers, Marlow\n Continue reading...",
+          "link": "https://www.theguardian.com/food/2021/may/16/we-can-get-a-table-inside-again-but-whats-the-future-of-restaurants",
+          "publishedOn": "2021-05-16T07:00:49.000Z",
+          "wordCount": 2671,
+          "title": "We can get a table inside again – but what’s the long-term future of restaurants?"
+        },
+        {
+          "id": "https://www.theguardian.com/environment/2021/may/16/im-seen-as-the-fool-the-farmers-putting-trees-back-into-the-uks-fields",
+          "author": "Patrick Barkham Photographs by Jim Wileman",
+          "description": "It’s hoped a 12-year trial in Devon will persuade policymakers to back silvopasture to benefit the soil, livestock and climate\nAndy Gray stands beside an enormous hill of bare red earth and smiles with a hint of mischief. This is his best field, its soils known as Crediton red land. The region was once known for producing swedes prized by Covent Garden market. Now, every six metres, planted in rows 14 metres apart, stands a tree guard shielding a young oak, aspen or alder.\n“You can grow anything on it and I…",
+          "link": "https://www.theguardian.com/environment/2021/may/16/im-seen-as-the-fool-the-farmers-putting-trees-back-into-the-uks-fields",
+          "publishedOn": "2021-05-16T07:00:48.000Z",
+          "wordCount": 1949,
+          "title": "‘I’m seen as the fool’: the farmers putting trees back into the UK’s fields"
+        },
+        {
+          "id": "https://www.theguardian.com/artanddesign/2021/may/16/the-big-picture-sven-jacobsen-photography-like-birds",
+          "author": "Tim Adams",
+          "description": "In Sven Jacobsen’s painterly images, the young become as one with their environment, seemingly without a care in the world\nSven Jacobsen’s photographs ask interesting questions about innocence and bliss. A new book concentrates on images of youthful freedom; teenagers scale fences and climb trees and plunge into lakes, they skateboard and snog and do headstands and backflips and laugh like they will never, ever stop. Any of the pictures might lead advertising campaigns for spring water or blue jeans or perf…",
+          "link": "https://www.theguardian.com/artanddesign/2021/may/16/the-big-picture-sven-jacobsen-photography-like-birds",
+          "publishedOn": "2021-05-16T06:00:48.000Z",
+          "wordCount": 480,
+          "title": "The big picture: in celebration of youthful freedom"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/secret-history-the-warrior-women-who-fought-their-enslavers",
+          "author": "Rob Walker",
+          "description": "Historian Rebecca Hall works with a graphic artist in her new book to reclaim the stories of the female rebels on ships and plantations\nGrowing up in New York in the 1970s Rebecca Hall craved heroes she could relate to – powerful women who could take care of themselves and protect others. But pickings were slim. The famed feminists of the time, Charlie’s Angels and The Bionic Woman, didn’t cut it for her.\nBut every night when she went to sleep, her father would recount stories of her grandmother’s life. Har…",
+          "link": "https://www.theguardian.com/world/2021/may/16/secret-history-the-warrior-women-who-fought-their-enslavers",
+          "publishedOn": "2021-05-16T05:15:46.000Z",
+          "wordCount": 1706,
+          "title": "Secret history: the warrior women who fought their enslavers"
+        },
+        {
+          "id": "https://www.theguardian.com/food/2021/may/16/only-food-and-courses-london-deserves-to-be-taken-seriously-restaurant-review",
+          "author": "Jay Rayner",
+          "description": "The Del Boy pun is a laugh, but there’s real intent behind the cooking at this Brixton venture\nOnly Food and Courses, Pop Brixton, 49 Station Road, London SW9 8PQ (onlyfoodandcourses.co.uk). Starters £10, mains £14, desserts £10, wines from £24\nOn the wall of the space housing this week’s restaurant is a sign which reads: “A brilliantly cheeky twist on classic British food.” There is a lot to unpack here, not least the second word; I’ll be the judge of that and so on. Even before you get to that sign, you h…",
+          "link": "https://www.theguardian.com/food/2021/may/16/only-food-and-courses-london-deserves-to-be-taken-seriously-restaurant-review",
+          "publishedOn": "2021-05-16T05:00:46.000Z",
+          "wordCount": 1668,
+          "title": "Only Food and Courses, London: ‘Deserves to be taken seriously’ – restaurant review"
+        },
+        {
+          "id": "https://www.theguardian.com/world/2021/may/16/new-york-city-pride-organisers-to-ban-police-from-marching-until-2025",
+          "author": "The Associated Press",
+          "description": "Event organisers say police are threatening to some in the LGBTQ+ community, while NYPD called decision ‘disheartening’\nOrganisers of New York City’s Pride events say they will ban police and other law enforcement personnel from marching in their annual parade until at least 2025 and will also seek to keep on-duty officers a block away from the celebration of LGBTQ+ people and history.\nIn a statement released on Saturday, NYC Pride urged members of law enforcement to “acknowledge their harm and to correct c…",
+          "link": "https://www.theguardian.com/world/2021/may/16/new-york-city-pride-organisers-to-ban-police-from-marching-until-2025",
+          "publishedOn": "2021-05-16T02:32:14.000Z",
+          "wordCount": 726,
+          "title": "New York City Pride organisers to ban police from marching until 2025"
         },
         {
           "id": "https://www.theguardian.com/environment/gallery/2021/may/16/blue-cushion-sea-stars-short-nosed-snakes-and-sea-slugs-21-days-beneath-the-timor-sea-in-pictures",
@@ -594,33 +1197,6 @@
           "title": "Blue cushion sea stars, short-nosed snakes and sea slugs: 21 days beneath the Timor sea – in pictures"
         },
         {
-          "id": "https://www.theguardian.com/australia-news/commentisfree/2021/may/16/indefinite-detention-of-refugees-is-unlawful-under-international-law-but-australia-has-quietly-made-it-legal",
-          "author": "Ben Doherty",
-          "description": "To counter the court’s ruling against unlawful detention, the government simply wrote a new law allowing it to do whatever it wants\nIn 2012, a person placed in immigration detention in Australia was held, on average, for less than 100 days.\nIn 2021, that figure is 627 days – 20 months – the highest it has ever been.\n Continue reading...",
-          "link": "https://www.theguardian.com/australia-news/commentisfree/2021/may/16/indefinite-detention-of-refugees-is-unlawful-under-international-law-but-australia-has-quietly-made-it-legal",
-          "publishedOn": "2021-05-15T20:00:35.000Z",
-          "wordCount": 1295,
-          "title": "Indefinite detention of refugees is unlawful under international law, but Australia has quietly made it legal"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/tesla-fatal-california-crash-autopilot",
-          "author": "Associated Press in Fontana",
-          "description": "Steven Hendrickson, 35, killed earlier this month in fatal crash\nAuthorities say car may have been operating in autopilot mode\n\nThe driver of a Tesla car in a fatal crash that California highway authorities said may have been operating on autopilot posted social media videos of himself riding in the vehicle without his hands on the wheel or foot on the pedal.\nThe 5 May crash in Fontana, a city 50 miles east of Los Angeles, is also under investigation by the National Highway Traffic Safety Administration (NH…",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/tesla-fatal-california-crash-autopilot",
-          "publishedOn": "2021-05-15T19:49:42.000Z",
-          "wordCount": 920,
-          "title": "Tesla crash driver posted videos of himself riding without hands on wheel"
-        },
-        {
-          "id": "https://www.theguardian.com/environment/video/2021/may/15/divers-remove-200lb-of-trash-from-lake-tahoe-in-one-day-video",
-          "author": "",
-          "description": "Scuba divers removed about 200lb of garbage from California’s Lake Tahoe on Friday. The dive was part of a six-month effort to rid the lake of fishing rods, tyres, aluminium cans, beer bottles and other rubbish accumulating underwater.\nThe team plans to look for rubbish along the entire 72 miles (115 km) of shoreline in what could be the largest trash cleanup in the lake’s history, said Colin West, founder of Clean up the Lake, the non-profit organising the project. The team includes 10 divers, as well as s…",
-          "link": "https://www.theguardian.com/environment/video/2021/may/15/divers-remove-200lb-of-trash-from-lake-tahoe-in-one-day-video",
-          "publishedOn": "2021-05-15T19:40:45.000Z",
-          "wordCount": 483,
-          "title": "Divers remove 200lb of trash from Lake Tahoe in one day – video"
-        },
-        {
           "id": "https://www.theguardian.com/politics/2021/may/15/andy-burnham-has-labour-still-got-what-it-takes-to-fight-an-injustice-no",
           "author": "Toby Helm",
           "description": "The Blair minister and twice mayor of Manchester thinks not. But, he says, if members should now decide that he has the vision needed to win back voters, he might consider a return to Westminster \nAndy Burnham is wearing a black sweatshirt, jeans and trainers, having just returned from what he calls a “homelessness walkabout” in central Manchester, talking to rough sleepers. He is in high spirits, as the homeless numbers are right down.\nHis mood is boosted further when the director of his office, Kevin Lee,…",
@@ -628,141 +1204,6 @@
           "publishedOn": "2021-05-15T19:00:34.000Z",
           "wordCount": 2046,
           "title": "Andy Burnham: ‘Has Labour still got what it takes to fight an injustice? No’"
-        },
-        {
-          "id": "https://www.theguardian.com/football/blog/2021/may/15/down-but-not-out-lampooned-allardyce-can-still-make-albion-proud",
-          "author": "Jonathan Wilson",
-          "description": "The West Brom manager has a stain on his record now. But nobody should think the old magic has entirely deserted him\nThe summer of 2016 has a lot of answer for. What if England had not been beaten by Iceland in the last 16 of the Euros? What if they had not lost their nerve, if Joe Hart had not made that mistake, if somebody, anybody, had demonstrated any kind of clarity of vision and attempted a mode of attacking that was not just whacking the ball into the box or giving it to Wayne Rooney? What if they ha…",
-          "link": "https://www.theguardian.com/football/blog/2021/may/15/down-but-not-out-lampooned-allardyce-can-still-make-albion-proud",
-          "publishedOn": "2021-05-15T19:00:34.000Z",
-          "wordCount": 1355,
-          "title": "Down but not out: lampooned Allardyce can still make Albion proud | Jonathan Wilson"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/may/15/andy-burnham-labours-red-wall-seats-would-have-been-safer-under-me",
-          "author": "Toby Helm",
-          "description": "Re-elected mayor of Greater Manchester says party would have fared better in its heartland had he beaten Jeremy Corbyn to leadership\nAndy Burnham interview: ‘Has Labour still got what it takes to fight an injustice?\nAndy Burnham believes that Labour would not have lost so many seats to the Tories in its traditional heartlands in the north of England if he had defeated Jeremy Corbyn in the race for the leadership in 2015.\nIn an interview with the Observer, in which he makes clear he would run for the leaders…",
-          "link": "https://www.theguardian.com/politics/2021/may/15/andy-burnham-labours-red-wall-seats-would-have-been-safer-under-me",
-          "publishedOn": "2021-05-15T19:00:33.000Z",
-          "wordCount": 948,
-          "title": "Andy Burnham: Labour’s red wall seats would have been safer under me"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/15/israeli-airstrike-on-gaza-claims-eight-young-cousins",
-          "author": "Hazem Balousha in Gaza, Emma Graham-Harrison and Oliver Holmes in Jerusalem",
-          "description": "Family celebrating Eid killed as building housing the Associated Press and other news agencies is bombed\nIntense Israeli airstrikes on Gaza on Saturday killed eight young cousins who had gathered to celebrate Eid with their mothers, and destroyed the high-rise tower that housed the Associated Press, the leading news agency of its greatest ally.\nMohammed Haddidi’s wife and five sons were inside the house when it was bombed, and only five-month-old Omar was pulled from the rubble alive. Rescuers searched for …",
-          "link": "https://www.theguardian.com/world/2021/may/15/israeli-airstrike-on-gaza-claims-eight-young-cousins",
-          "publishedOn": "2021-05-15T18:33:53.000Z",
-          "wordCount": 1358,
-          "title": "Israeli airstrike on Gaza claims eight young cousins"
-        },
-        {
-          "id": "https://www.theguardian.com/football/2021/may/15/chelsea-leicester-city-fa-cup-final-match-report-youri-tielemans",
-          "author": "David Hytner at Wembley",
-          "description": "Doing a Leicester: to achieve the seemingly impossible, to make light of ridiculous odds. Things have changed somewhat since 2016 and the most outlandish title triumph of all time, with Leicester having levelled the playing field through astute recruitment and the excellent coaching of Brendan Rodgers. But doing a Leicester continues to represent the challenging and toppling of the elite.\n Related: Brendan Rodgers says Leicester FA Cup win is for players, fans and owner \n Continue reading...",
-          "link": "https://www.theguardian.com/football/2021/may/15/chelsea-leicester-city-fa-cup-final-match-report-youri-tielemans",
-          "publishedOn": "2021-05-15T18:09:26.000Z",
-          "wordCount": 1211,
-          "title": "Leicester City win first FA Cup after Youri Tielemans screamer sinks Chelsea"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2021/may/15/building-crisis-looms-as-dwindling-supplies-bring-sites-grinding-to-a-halt",
-          "author": "James Tapper",
-          "description": "Shortages, delays and soaring prices caused by Brexit, Covid and the Suez blockage are holding up projects across the nation\nBy tradition, the wits of every construction apprentice are tested with two errands early on in their career: to ask the foreman first for some tartan paint and then a long weight.\nThe joke is ringing even more hollow than usual on building sites across the UK, where firms needing essential building supplies are facing some very, very long waits. The British building industry is in th…",
-          "link": "https://www.theguardian.com/business/2021/may/15/building-crisis-looms-as-dwindling-supplies-bring-sites-grinding-to-a-halt",
-          "publishedOn": "2021-05-15T17:25:32.000Z",
-          "wordCount": 2175,
-          "title": "Building crisis looms as dwindling supplies bring sites grinding to a halt"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/picture/2021/may/15/covid-puts-boris-johnson-in-check-cartoon",
-          "author": "Chris Riddell",
-          "description": "The prime minister’s path out of lockdown is blocked\n• You can buy your own print of this cartoon\n Continue reading...",
-          "link": "https://www.theguardian.com/commentisfree/picture/2021/may/15/covid-puts-boris-johnson-in-check-cartoon",
-          "publishedOn": "2021-05-15T17:00:32.000Z",
-          "wordCount": 420,
-          "title": "Covid puts Boris Johnson in check – cartoon"
-        },
-        {
-          "id": "https://www.theguardian.com/books/2021/may/15/hollie-mcnish-poet-slug-covid-cambridge-racism-motherhood",
-          "author": "Kate Kellaway",
-          "description": "The prize-winning poet on her bond with her giggly late gran, embracing blush-making subject matter and why reading poetry is key to writing\nHollie McNish, 38, grew up in Reading, went on from a comprehensive school to Cambridge and has attracted an online following of millions for performances of her poetry. Winner of the Ted Hughes prize for new work in poetry in 2016, she combines protest and humour with a refreshing lack of self-importance. She is a natural champion of women, an ace inequality spotter –…",
-          "link": "https://www.theguardian.com/books/2021/may/15/hollie-mcnish-poet-slug-covid-cambridge-racism-motherhood",
-          "publishedOn": "2021-05-15T17:00:32.000Z",
-          "wordCount": 1203,
-          "title": "Hollie McNish: ‘I have to psych myself up to share’"
-        },
-        {
-          "id": "https://www.theguardian.com/fashion/2021/may/15/crocs-of-gold-celebrity-fans-fuel-frenzy-to-buy-used-ugly-clogs",
-          "author": "Priya Elan",
-          "description": "Fashion trend sees the plastic shoes dominating the resale market traditionally ruled by trainers\nOnce named among Time magazine’s 50 worst inventions, Crocs have long been one of those love-them-or-hate -them accessories. But now the plastic clogs are being heralded as the shoes of the summer and are in such high demand that they are giving trainers a run for their money in the secondhand market.\nLast week, rapper Nicki Minaj posted a picture of herself on Instagram wearing a pair of hot pink bedazzled Cro…",
-          "link": "https://www.theguardian.com/fashion/2021/may/15/crocs-of-gold-celebrity-fans-fuel-frenzy-to-buy-used-ugly-clogs",
-          "publishedOn": "2021-05-15T17:00:31.000Z",
-          "wordCount": 1041,
-          "title": "Crocs of gold: celebrity fans fuel frenzy to buy used ‘ugly clogs’"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/15/manchester-city-play-beautiful-football-but-it-masks-the-ugliness-of-their-owners-nick-cohen",
-          "author": "Nick Cohen",
-          "description": "Being backed by an oppressive regime takes the gloss off the Premier League champions\nYou cannot tell the truth about beauty in England without the ugliest people in the country threatening you. The National Trust is the custodian of the beautiful best of the nation’s heritage. Let it compile a historical record on how many of the stately homes of England were connected to the slave trade and Conservative MPs demand a Putinesque “panel of patriots” to purge “elitist bourgeois liberals” from cultural life.\nO…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/15/manchester-city-play-beautiful-football-but-it-masks-the-ugliness-of-their-owners-nick-cohen",
-          "publishedOn": "2021-05-15T17:00:31.000Z",
-          "wordCount": 1257,
-          "title": "Truth about England’s beauty"
-        },
-        {
-          "id": "https://www.theguardian.com/sport/2021/may/15/leicester-harlequins-premiership-rugby-match-report",
-          "author": "Gerard Meagher at Welford Road",
-          "description": "Leicester 35-29 Harlequins\nGenge scores two tries for Tigers on difficult day for Smith\n\nHarlequins are fast becoming the Premiership’s escape artists but a third consecutive last-ditch comeback proved just beyond them against Leicester, for whom Ellis Genge scored two tries and served up a reminder as to why he may be missed on the British & Irish Lions tour this summer.\nOn more than one occasion Leicester looked home and hosed but Harlequins, who have completed remarkable turnaround wins over London Irish…",
-          "link": "https://www.theguardian.com/sport/2021/may/15/leicester-harlequins-premiership-rugby-match-report",
-          "publishedOn": "2021-05-15T16:58:35.000Z",
-          "wordCount": 873,
-          "title": "Ellis Genge doubles up as Leicester hold off another Harlequins fightback"
-        },
-        {
-          "id": "https://www.theguardian.com/education/2021/may/15/councils-in-england-facing-funding-gaps-plan-to-cut-special-needs-support",
-          "author": "Chaminda Jayanetti",
-          "description": "Cash-strapped local authorities, dealing with years of accumulated shortfalls, are having to reduce education and care packages\nCouncils in England, facing a funding shortfall of more than half a billion pounds for educating children with special needs, are planning spending cuts and service reviews, according to figures compiled by the Observer.\nCampaigners fear children could lose some of their support as local authorities try to clear yawning historical deficits, with government rules stopping them using…",
-          "link": "https://www.theguardian.com/education/2021/may/15/councils-in-england-facing-funding-gaps-plan-to-cut-special-needs-support",
-          "publishedOn": "2021-05-15T16:08:29.000Z",
-          "wordCount": 949,
-          "title": "Councils in England facing funding gaps plan to cut special needs support"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/black-high-school-student-softball-game",
-          "author": "Erum Salam",
-          "description": "Nicole Pyles from North Carolina says ruling from umpires that the beads in her braids were against the rules was ‘humiliating’\nA Black high school student in North Carolina was forced to cut her hair during a softball game last month, after umpires said beads in her braids violated rules set by the National Federation of State High School Associations (NFSHS).\n Related: Texas police fail to earn stripes as tiger which terrorised suburb goes missing \n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/black-high-school-student-softball-game",
-          "publishedOn": "2021-05-15T16:07:04.000Z",
-          "wordCount": 541,
-          "title": "Black US high school student forced to cut hair during softball game"
-        },
-        {
-          "id": "https://www.theguardian.com/food/2021/may/15/out-go-the-blankets-in-comes-the-thrill-of-eating-indoors-restaurants-",
-          "author": "Rachel Cooke",
-          "description": "The return of indoor dining is a gentle sign that happier days could soon be with us\nOne Sunday last month, a group of us met for lunch in a friend’s garden. She had ordered in the most perfectly flaky sausage rolls (from Sally Clarke), and another friend had put together a fancy salad with asparagus, croutons and garlic flowers; someone else had made old-fashioned ice-cream sandwiches using ginger biscuits instead of wafers, each one of which he’d wrapped in greaseproof paper like a total pro. It was all d…",
-          "link": "https://www.theguardian.com/food/2021/may/15/out-go-the-blankets-in-comes-the-thrill-of-eating-indoors-restaurants-",
-          "publishedOn": "2021-05-15T16:00:31.000Z",
-          "wordCount": 964,
-          "title": "Out go the blankets, in comes the thrill of eating indoors"
-        },
-        {
-          "id": "https://www.theguardian.com/society/2021/may/15/how-to-cure-type-2-diabetes-without-medication",
-          "author": "Donna Ferguson",
-          "description": "It can be debilitating and last a lifetime, but type 2 diabetes, if caught early, can be reversed with weight loss\nIt’s 10 years since Professor Roy Taylor revolutionised treatment for type 2 diabetes with a groundbreaking study that showed the disease could be reversed through rapid weight loss. Until his research was published, type 2 diabetes was thought to be an incurable, lifelong condition. Now, for many people, we know it is not.\nBut his achievements – and the thousands of people he has cured – are n…",
-          "link": "https://www.theguardian.com/society/2021/may/15/how-to-cure-type-2-diabetes-without-medication",
-          "publishedOn": "2021-05-15T16:00:30.000Z",
-          "wordCount": 1668,
-          "title": "How to cure type 2 diabetes – without medication"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/15/less-of-your-backstory-angela-rayner-show-us-your-political-credibility",
-          "author": "Barbara Ellen",
-          "description": "The deputy party leader may be riding high but she risks putting off working-class voters if she keeps ramming home her roots\nIs Labour’s deputy leader, Angela Rayner, resting on her working-class laurels rather too much? She emerged triumphant from the recent byelection/reshuffle not only having avoided being demoted by Keir Starmer, but gaining more positions and power, with some claiming that she could win a leadership contest. Really? I’ve found Rayner’s behaviour snaky; if she’d thrown Starmer under th…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/15/less-of-your-backstory-angela-rayner-show-us-your-political-credibility",
-          "publishedOn": "2021-05-15T16:00:30.000Z",
-          "wordCount": 1210,
-          "title": "Less of the backstory, Angela Rayner, it’s beginning to wear a bit thin | Barbara Ellen"
         },
         {
           "id": "https://www.theguardian.com/artanddesign/gallery/2021/may/15/when-a-vinyl-record-becomes-an-artists-canvas-in-pictures",
@@ -774,339 +1215,6 @@
           "title": "When a vinyl record becomes an artist’s canvas – in pictures"
         },
         {
-          "id": "https://www.theguardian.com/food/2021/may/15/jay-blades-when-i-was-at-rock-bottom-i-ate-a-box-of-farleys-rusks-repair-shop",
-          "author": "John Hind",
-          "description": "The Repair Shop presenter on school dinners, seaside eating competitions and food that heals the soul \nI call my real “father” TMWCTMB – “The Man Who Contributed Towards My Birth”. He didn’t come into my life until I was 45 and I discovered all the half-brothers and half-sisters [25 in total] he’d had with other women. But we stayed with my uncle when I was young. We’d gone into a refuge after I was born, but I don’t remember that. My earliest memories are of being at the house of a friend in Stoke Newingto…",
-          "link": "https://www.theguardian.com/food/2021/may/15/jay-blades-when-i-was-at-rock-bottom-i-ate-a-box-of-farleys-rusks-repair-shop",
-          "publishedOn": "2021-05-15T15:00:30.000Z",
-          "wordCount": 1327,
-          "title": "Jay Blades: ‘When I was at rock bottom, I ate a box of Farley’s Rusks. It was joyous’"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/15/welcome-to-darkside-and-the-inexorable-rise-of-ransomware",
-          "author": "John Naughton",
-          "description": "The hacking of a US gas pipeline is proof that cybercrime is now a major industry – with its own trading markets and even CSR\nOn Friday 7 May, Colonial, the quaintly named operator of the pipeline that brings 45% of the US east coast’s gasoline and jet fuel from Texas to New York, announced that it had been hacked. My initial assumption was that this was Russian retaliation for the Biden administration’s punitive cyber-attacks on Russia in response to the SolarWinds hack. After all, if a pipeline like this …",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/15/welcome-to-darkside-and-the-inexorable-rise-of-ransomware",
-          "publishedOn": "2021-05-15T15:00:30.000Z",
-          "wordCount": 1182,
-          "title": "Welcome to DarkSide – and the inexorable rise of ransomware | John Naughton"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/15/how-missing-cctv-footage-turned-a-chinese-familys-tragedy-into-a-national-conspiracy",
-          "author": "Vincent Ni China affairs correspondent",
-          "description": "A mother’s search for the truth about her son’s death exposes the level of public distrust in China’s authorities\nOn Mother’s Day last Sunday, 17-year-old Lin Weiqi wished his mother – referred to only as Madame Lu in Chinese media – a good day. “Mum, enjoy your day,” he said to her that morning. He was Lu’s only child. Like most Chinese parents of the one-child generation, Lin was her pride and joy.\nLate in the afternoon, before Lin had gone back to his school in the south-western city of Chengdu, Lu prepa…",
-          "link": "https://www.theguardian.com/world/2021/may/15/how-missing-cctv-footage-turned-a-chinese-familys-tragedy-into-a-national-conspiracy",
-          "publishedOn": "2021-05-15T15:00:29.000Z",
-          "wordCount": 1416,
-          "title": "How missing CCTV footage turned a Chinese family’s tragedy into a national conspiracy"
-        },
-        {
-          "id": "https://www.theguardian.com/science/2021/may/15/mixed-messages-is-research-into-human-animal-hybrids-ethical-chimera",
-          "author": "Philip Ball",
-          "description": "Biologists recently created a chimera with both human and monkey cells. But not all scientists are happy to blur species boundaries\nWhen King Minos of Crete was given a magnificent bull by the sea god Poseidon for a sacrifice, he could not bring himself to kill it. In anger, Poseidon enchanted Minos’s wife Pasiphaë to be filled with lust for the creature. The result of their trans-species mating was the bull-headed monster the Minotaur.\nHybrids of humans and animals throng within myth and legend: centaurs, …",
-          "link": "https://www.theguardian.com/science/2021/may/15/mixed-messages-is-research-into-human-animal-hybrids-ethical-chimera",
-          "publishedOn": "2021-05-15T15:00:29.000Z",
-          "wordCount": 2153,
-          "title": "Mixed messages: is research into human-monkey embryos ethical?"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2021/may/15/record-metals-boom-may-threaten-transition-to-green-energy",
-          "author": "Jillian Ambrose",
-          "description": "Demand and prices are soaring for minerals essential to the construction of low-carbon infrastructure\nThe commodities boom ignited by China’s post-Covid recovery, and stoked by the global move to green energy, broke price records last week even as fears about inflation stalked the markets. But it also risks triggering a rush on metals and minerals that could derail climate action.\nIron ore reached the apex of a super-rally that drove prices to $237.57 a tonne in New York on Wednesday. The record followed a …",
-          "link": "https://www.theguardian.com/business/2021/may/15/record-metals-boom-may-threaten-transition-to-green-energy",
-          "publishedOn": "2021-05-15T15:00:29.000Z",
-          "wordCount": 892,
-          "title": "Record metals boom may threaten transition to green energy"
-        },
-        {
-          "id": "https://www.theguardian.com/sport/2021/may/15/cricket-australia-open-to-investigating-any-new-ball-tampering-information",
-          "author": "Guardian sport",
-          "description": "CA responds to Cameron Bancroft interview with Guardian\nSandpaper scandal took place in 2018 Test at Cape Town\n\nAustralian cricket’s governing body says it is open to investigating any new information about the ball-tampering scandal after comments made by batsman Cameron Bancroft in a Guardian interview.\nBancroft, who has arrived in England to play county cricket with Durham, was banned for nine months by Cricket Australia for his role in the sandpaper plot that sent Australian cricket into crisis during a…",
-          "link": "https://www.theguardian.com/sport/2021/may/15/cricket-australia-open-to-investigating-any-new-ball-tampering-information",
-          "publishedOn": "2021-05-15T14:28:10.000Z",
-          "wordCount": 436,
-          "title": "Cricket Australia open to investigating any new ball-tampering information"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/may/15/david-miliband-charity-unpaid-internships-international-rescue-committee",
-          "author": "Nicola Slawson",
-          "description": "Former MP who runs International Rescue Committee is criticised over adverts for full-time roles\nThe former Labour MP David Miliband is facing criticism after it emerged that the charity he runs, for which he was paid more than £700,000, is offering unpaid internships at its headquarters in New York City.\nMiliband, the chief executive of the refugee charity International Rescue Committee (IRC), has previously been labelled “million-dollar Miliband” after his pay packet rose to $911,796 in 2019, then worth m…",
-          "link": "https://www.theguardian.com/politics/2021/may/15/david-miliband-charity-unpaid-internships-international-rescue-committee",
-          "publishedOn": "2021-05-15T14:27:36.000Z",
-          "wordCount": 577,
-          "title": "David Miliband’s charity offers unpaid internships but he took home over £700,000"
-        },
-        {
-          "id": "https://www.theguardian.com/culture/2021/may/15/on-my-radar-richard-osman-cultural-highlights-thursday-murder-club",
-          "author": "Alice Fisher",
-          "description": "The gameshow maestro and bestselling novelist on AJ Tracey’s rhymes, the newfound joys of Radio 3, and longing for the return of live comedy\nRichard Osman was born in 1970 and grew up in Haywards Heath, West Sussex. He started his career as an executive producer on TV shows such as Deal Or No Deal and 8 Out of 10 Cats. He pitched the gameshow Pointless to the BBC in 2009 and has now been the show’s cohost for 12 years, alongside his university friend Alexander Armstrong. Last year Osman’s novel The Thursday…",
-          "link": "https://www.theguardian.com/culture/2021/may/15/on-my-radar-richard-osman-cultural-highlights-thursday-murder-club",
-          "publishedOn": "2021-05-15T14:00:28.000Z",
-          "wordCount": 898,
-          "title": "On my radar: Richard Osman’s cultural highlights"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/may/15/priti-patel-accused-of-lobbying-for-get-rich-quick-20m-ppe-deal",
-          "author": "Nicola Slawson and agency",
-          "description": "Labour calls for investigation into home secretary over letter urging government to buy face masks\nLabour has accused Priti Patel of a “flagrant breach” of the ministerial code by allegedly lobbying Michael Gove over a £20m deal.\nIn a letter signed by the deputy Labour leader, Angela Rayner, and shadow home secretary, Nick Thomas-Symonds, the party urged the cabinet secretary Simon Case to investigate the home secretary over alleged efforts to sway the award of a contract.\n Continue reading...",
-          "link": "https://www.theguardian.com/politics/2021/may/15/priti-patel-accused-of-lobbying-for-get-rich-quick-20m-ppe-deal",
-          "publishedOn": "2021-05-15T13:51:33.000Z",
-          "wordCount": 733,
-          "title": "Priti Patel accused of lobbying for ‘get-rich-quick’ £20m PPE deal"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/philadelphia-mayor-move-bombing-1985-victims",
-          "author": "Associated Press in Philadelphia",
-          "description": "City mayor says remains found at medical examiner’s office\nHealth commissioner resigns over mishandling of case\n\nA day after the Philadelphia health commissioner was forced to resign over the cremation of partial remains belonging to victims of a 1985 police bombing of the headquarters of a Black organization, the city said those remains were never actually destroyed.\n Related: Philadelphia holds day of remembrance for 1985 Move bombing that left 11 dead \n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/philadelphia-mayor-move-bombing-1985-victims",
-          "publishedOn": "2021-05-15T13:05:37.000Z",
-          "wordCount": 975,
-          "title": "Philadelphia says remains of 1985 bombing victims were not destroyed"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/biden-venmo-account-buzzfeed-news-national-security",
-          "author": "Martin Pengelly in New York",
-          "description": "Joe and Jill Biden accounts removed after BuzzFeed discovery\nWebsite says app revelation raises national security questions\n\nVenmo accounts for Joe Biden and Dr Jill Biden were removed on Friday after BuzzFeed News said it easily found the US president on the payment app – a discovery it said raised national security questions.\n Related: Venmo: how the payment app exposes our private lives \n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/biden-venmo-account-buzzfeed-news-national-security",
-          "publishedOn": "2021-05-15T12:15:06.000Z",
-          "wordCount": 694,
-          "title": "Joe Biden’s Venmo account discovered in ‘less than 10 minutes’ – report"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2021/may/15/torture-victims-kept-in-solitary-by-home-office-for-up-to-a-year",
-          "author": "Mark Townsend",
-          "description": "Immigration detainees left desperate and suicidal after being held in prisons during the pandemic\n\nThe Home Office has pursued a policy of psychological brutality by locking up scores of torture survivors in solitary confinement for indefinite periods, according to fresh testimony from immigration detainees.\nInterviews dictated from prison reveal some torture and trafficking victims have had to spend more than 23 hours a day in solitary confinement for periods of up to a year. Their accounts portray mental …",
-          "link": "https://www.theguardian.com/uk-news/2021/may/15/torture-victims-kept-in-solitary-by-home-office-for-up-to-a-year",
-          "publishedOn": "2021-05-15T12:07:50.000Z",
-          "wordCount": 798,
-          "title": "Torture victims kept in solitary by Home Office for up to a year"
-        },
-        {
-          "id": "https://www.theguardian.com/environment/2021/may/15/the-chips-are-down-belgium-counts-the-cost-of-betting-all-on-the-potato",
-          "author": "Daniel Boffey in Frameries, Belgium",
-          "description": "A row over a huge processing plant has exposed flaws in the country’s reliance on a single crop. In Frameries, campaigners call for farmers to diversify\nA humble frite with a dollop of mayonnaise is a revered thing in Belgium but, thanks to campaigners against a new mega-processing plant, the environmental and social costs of its mass production are being newly questioned at the highest levels of government.\nFor three years, residents in Frameries, a town in French-speaking Hainaut in the south-west of the …",
-          "link": "https://www.theguardian.com/environment/2021/may/15/the-chips-are-down-belgium-counts-the-cost-of-betting-all-on-the-potato",
-          "publishedOn": "2021-05-15T12:00:25.000Z",
-          "wordCount": 1246,
-          "title": "The chips are down: Belgium counts the cost of betting all on the potato"
-        },
-        {
-          "id": "https://www.theguardian.com/books/2021/may/15/salman-rushdie-i-am-stupidly-optimistic-it-got-me-through-those-bad-years",
-          "author": "Hadley Freeman",
-          "description": "Despite the obstacles thrown his way, the novelist remains indestructible. He talks about strong women, ‘moral censorship’ and the ‘great wound’ of his life \nPoor Salman Rushdie. The one thing I am most keen to talk to him about is the one thing he absolutely, definitely does not want to discuss. “I really resist the idea of being dragged back to that period of time that you insist on bringing up,” he grumbles when I make the mistake of mentioning it twice in the first 15 minutes of our conversation. He is …",
-          "link": "https://www.theguardian.com/books/2021/may/15/salman-rushdie-i-am-stupidly-optimistic-it-got-me-through-those-bad-years",
-          "publishedOn": "2021-05-15T11:00:25.000Z",
-          "wordCount": 4083,
-          "title": "Salman Rushdie: ‘I am stupidly optimistic – it got me through those bad years’"
-        },
-        {
-          "id": "https://www.theguardian.com/books/2021/may/15/brit-bennett-trump-colonised-our-brains-for-years-suddenly-hes-just-gone-it-feels-surreal",
-          "author": "Emma Brockes",
-          "description": "The author of the Women’s prize-shortlisted The Vanishing Half talks about race, the dangers of nostalgia and writing only what pleases her\nThere was a rule to which Brit Bennett adhered during the writing of her novel The Vanishing Half. It is a sprawling blockbuster that opens in a small town in Louisiana in 1954 and unspools almost to the present day. It takes twin girls, Desiree and Stella, and through their divergent fortunes tells a story of race and class in America, in which history appears much clo…",
-          "link": "https://www.theguardian.com/books/2021/may/15/brit-bennett-trump-colonised-our-brains-for-years-suddenly-hes-just-gone-it-feels-surreal",
-          "publishedOn": "2021-05-15T11:00:25.000Z",
-          "wordCount": 2105,
-          "title": "Brit Bennett: ‘Trump colonised our brains for years. Suddenly he’s just gone? It feels surreal’"
-        },
-        {
-          "id": "https://www.theguardian.com/australia-news/2021/may/15/thousands-march-in-free-palestine-rallies-in-sydney-and-melbourne",
-          "author": "Matilda Boseley",
-          "description": "Protesters in Australia have joined rallies around the world against Israeli military attacks in Gaza, where fighting continued for a fifth night\nJeanine Hourani has been attending protests calling for freedom for Palestine since she was in a pram.\n“I always joke that as Palestinians we learn too much before we learn to walk,” she laughed.\n Continue reading...",
-          "link": "https://www.theguardian.com/australia-news/2021/may/15/thousands-march-in-free-palestine-rallies-in-sydney-and-melbourne",
-          "publishedOn": "2021-05-15T10:57:06.000Z",
-          "wordCount": 1252,
-          "title": "Thousands march in Free Palestine rallies in Sydney and Melbourne"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/15/mask-free-guidance-coronavirus-new-york",
-          "author": "Victoria Bekiempis in New York",
-          "description": "The CDC says people who have been vaccinated no longer have to wear face coverings in public – but not all are enthusiastic\nWhen the CDC announced this week that people fully vaccinated against Covid-19 mostly didn’t have to wear masks indoors, many Americans saw this news as cause for celebration, feeling a sense of freedom after 15 months of itchy and cumbersome face coverings.\nBut in New York City, which was the US’s first coronavirus hotspot last spring, not everyone was rushing to rip off their masks, …",
-          "link": "https://www.theguardian.com/world/2021/may/15/mask-free-guidance-coronavirus-new-york",
-          "publishedOn": "2021-05-15T09:00:22.000Z",
-          "wordCount": 911,
-          "title": "Relief, reluctance and confusion: New Yorkers react to mask-free guidance"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/15/the-green-party-can-show-labour-how-to-connect-with-its-former-heartlands",
-          "author": "Lynsey Hanley",
-          "description": "Rather than campaigning on the climate crisis, the party has won people’s support by focusing on their local environments\nIn the week before the Hartlepool byelection, a still loyal Labour voter gave a bleak assessment of her hometown to a reporter from the Financial Times. “We are at the arse-end of the world, just a sprawling housing estate. We don’t really make anything any more.”\nThe floppy union jack hanging outside Labour’s Hartlepool HQ at the insistence of Keir Starmer’s London-based team turned out…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/15/the-green-party-can-show-labour-how-to-connect-with-its-former-heartlands",
-          "publishedOn": "2021-05-15T08:00:20.000Z",
-          "wordCount": 1450,
-          "title": "The Green party is showing Labour how to connect with its former heartlands | Lynsey Hanley"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2021/may/15/cabinet-office-blocks-publication-of-lord-mountbattens-diaries",
-          "author": "Haroon Siddique Legal affairs correspondent",
-          "description": "University of Southampton spends ‘hundreds of thousands’ on legal battle preventing access due to government veto\nWhen the diaries and letters of Lord and Lady Mountbatten were “saved for the nation” in 2010, it should have created an invaluable public resource. Instead, a writer has spent four years and £250,000 of his own money in an ongoing – but still frustrated – attempt to force Southampton University and the Cabinet Office to allow the public to view them.\nThe university bought the Broadlands archive…",
-          "link": "https://www.theguardian.com/uk-news/2021/may/15/cabinet-office-blocks-publication-of-lord-mountbattens-diaries",
-          "publishedOn": "2021-05-15T07:49:59.000Z",
-          "wordCount": 918,
-          "title": "Cabinet Office blocks publication of Lord Mountbatten’s diaries"
-        },
-        {
-          "id": "https://www.theguardian.com/education/2021/may/15/uk-top-universities-fearful-of-extra-student-numbers-if-grades-stay-high",
-          "author": "Anna Fazackerley",
-          "description": "With teacher-assessed grades this summer expected to result in more top marks, universities are worried about space in halls and staffing\nHeads of some of the UK’s elite universities fear they may be forced to take thousands of extra students they feel they do not have room for this summer, if teacher-assessed A-levels lead to far more 18-year-olds achieving the grades they need to obtain a place.\nDuring last summer’s A-level fiasco, when thousands of students had their A-levels marked up at the last minute…",
-          "link": "https://www.theguardian.com/education/2021/may/15/uk-top-universities-fearful-of-extra-student-numbers-if-grades-stay-high",
-          "publishedOn": "2021-05-15T07:15:19.000Z",
-          "wordCount": 1475,
-          "title": "UK’s top universities fearful of extra student numbers if A-level grades are high"
-        },
-        {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/may/15/he-grabbed-the-lead-and-said-give-me-the-dog-can-pet-detectives-stop-the-rise-in-animal-theft",
-          "author": "Sam Wollaston",
-          "description": "Dogs are more valuable than ever – which is why so many are being snatched. But some owners and pet detectives are fighting back\nThe village of Partridge Green in West Sussex on a gorgeous spring morning. The early mist has burnt off; a wood pigeon coos; a flurry of pink snow falls from a showy cherry tree; outside the butcher’s, an orderly, socially distanced queue has formed; a chap out for a morning spin motors along the high street in his vintage MG. It is, as my companion, Colin Butcher, says, a scene …",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/may/15/he-grabbed-the-lead-and-said-give-me-the-dog-can-pet-detectives-stop-the-rise-in-animal-theft",
-          "publishedOn": "2021-05-15T07:00:21.000Z",
-          "wordCount": 4234,
-          "title": "‘He grabbed the lead and said: give me the dog’: can pet detectives stop the rise in animal theft?"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2021/may/15/debenhams-bows-out-after-200-years-leaving-town-centres-counting-the-cost",
-          "author": "Sarah Butler",
-          "description": "Venerable department store chain closes its doors as other retailers struggle to survive on the high street\n\n ‘It leaves a huge hole’: shoppers react to store closures\n\nThere were queues of bargain hunters at the tills at Debenhams in Sheffield but it had the feel of a market hall rather than a department store chain that can trace its roots back more than 240 years.\nLarge areas were roped off with black and yellow tape, the beauty department had been stripped bare with some brand names now obscured by blac…",
-          "link": "https://www.theguardian.com/business/2021/may/15/debenhams-bows-out-after-200-years-leaving-town-centres-counting-the-cost",
-          "publishedOn": "2021-05-15T07:00:19.000Z",
-          "wordCount": 1592,
-          "title": "Debenhams bows out after 200 years leaving town centres counting the cost"
-        },
-        {
-          "id": "https://www.theguardian.com/culture/2021/may/15/its-important-to-build-pride-coventry-looks-to-future-as-uk-city-of-culture",
-          "author": "Jessica Murray",
-          "description": "Organisers have faced huge challenges in the Covid pandemic, but hope their events can help rejuvenate the arts sector\nUnder the colourful kaleidoscope of Coventry’s latest public artwork, Chenine Bhathena reflects on what the next 12 months hold for the city as it begins its year as the UK’s city of culture after a four-month delay due to the pandemic.\n“The city is transforming around us. I think it will be really important to build pride for people here, and to be able to show off on a national stage, to …",
-          "link": "https://www.theguardian.com/culture/2021/may/15/its-important-to-build-pride-coventry-looks-to-future-as-uk-city-of-culture",
-          "publishedOn": "2021-05-15T07:00:19.000Z",
-          "wordCount": 819,
-          "title": "‘It’s important to build pride’: Coventry looks to future as UK city of culture"
-        },
-        {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/may/15/what-links-play-misty-for-me-with-reservoir-dogs-weekend-quiz",
-          "author": "Thomas Eaton",
-          "description": "From the cab rank rule to East 17, test your knowledge with the Weekend quiz\n1 What is the only mammal wholly covered in scales?\n2 What began in Thomas Farriner’s bakery?\n3 Admah, Zeboim and Zoar: which two are missing?\n4 Which American journalist is buried at the Kremlin Wall?\n5 Which professionals observe the cab rank rule?\n6 What lies south of Spain’s La Línea de la Concepción?\n7 What is indicated by the blue MSC food label?\n8 Which cult sports series was filmed at Leeds Irish Centre?\nWhat links:\n9 Play …",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/may/15/what-links-play-misty-for-me-with-reservoir-dogs-weekend-quiz",
-          "publishedOn": "2021-05-15T06:00:21.000Z",
-          "wordCount": 378,
-          "title": "What links Play Misty For Me with Reservoir Dogs? The Weekend quiz"
-        },
-        {
-          "id": "https://www.theguardian.com/money/2021/may/15/online-safety-bill-cloned-websites-ad-scams-uk",
-          "author": "Hilary Osborne",
-          "description": "Finance experts fear loophole because of UK government’s focus on user-generated content\nThe UK government’s online safety bill will “fail to protect millions” by leaving people at risk of falling victim to cloned websites and adverts paid for by fraudsters, experts warned this week.\nThe bill, included in Tuesday’s Queen’s speech, will “lead the way in ensuring internet safety for all”, according to the government.\n Continue reading...",
-          "link": "https://www.theguardian.com/money/2021/may/15/online-safety-bill-cloned-websites-ad-scams-uk",
-          "publishedOn": "2021-05-15T06:00:20.000Z",
-          "wordCount": 578,
-          "title": "Online safety bill ‘will fail to protect millions from cloned websites and ad scams’"
-        },
-        {
-          "id": "https://www.theguardian.com/money/2021/may/15/booking-summer-holiday-outside-uk-travellers-covid-brexit",
-          "author": "Miles Brignall",
-          "description": "British travellers face challenges this year not only from the Covid crisis, but also the effects of Brexit. Here’s the lowdown\nHolidaymakers in England, Scotland and Wales have been given the green light for trips abroad. Travel is restricted to a small number of countries but the early signs are that they are proving popular with those desperate for a change of scene – this week Tui announced it would be putting on bigger planes to meet demand for trips to Portugal. Bookings for flights to the island of M…",
-          "link": "https://www.theguardian.com/money/2021/may/15/booking-summer-holiday-outside-uk-travellers-covid-brexit",
-          "publishedOn": "2021-05-15T06:00:20.000Z",
-          "wordCount": 1887,
-          "title": "Booking a holiday outside the UK? Here’s what you need to know"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/15/edward-viii-james-dyson-yacht-british-wealth-nahlin",
-          "author": "Ian Jack",
-          "description": "The fortunes of industry and a handful of ultra-rich individuals are woven through the history of the Nahlin \nIn the early years of this century, soon after he began moving production of his bagless vacuum cleaner from Wiltshire to south-east Asia, James Dyson bought a superb yacht. The Nahlin is exemplary in the beauty of its lines and instructive in its history, though how much of this history Dyson understands or relishes is hard to know. Despite spending a fortune (at least £25m) on its restoration, Dys…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/15/edward-viii-james-dyson-yacht-british-wealth-nahlin",
-          "publishedOn": "2021-05-15T06:00:19.000Z",
-          "wordCount": 1457,
-          "title": "From Edward VIII to James Dyson: the yacht that tells a tale of British wealth | Ian Jack"
-        },
-        {
-          "id": "https://www.theguardian.com/money/2021/may/15/converting-shops-to-flats-could-lead-to-low-quality-homes",
-          "author": "Rupert Jones",
-          "description": "Adapting commercial property will create new homes, but campaigners voice concerns over privacy\nNew planning laws to make it easier to turn empty shops into flats could result in poor-quality homes with “absolutely no privacy”, campaigners claim.\nHowever, a separate rule change should mean an end to tiny “rabbit hutch” flats – an issue that has been highlighted by Guardian Money on many occasions in recent years.\n Continue reading...",
-          "link": "https://www.theguardian.com/money/2021/may/15/converting-shops-to-flats-could-lead-to-low-quality-homes",
-          "publishedOn": "2021-05-15T06:00:19.000Z",
-          "wordCount": 980,
-          "title": "Converting shops to flats ‘could lead to low-quality homes’"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/15/liz-cheney-never-trump-republican-party",
-          "author": "David Smith in Washington",
-          "description": "As Liz Cheney’s defiance turns her into one of the movement’s leaders some insist the party was their home long before Trump while others say it’s time to move on\nSixteen minutes and out. The purging of Liz Cheney from Republican leadership in the House of Representatives did not even go to a secret ballot. Instead a voice vote was all it took to confirm the party’s capitulation to Donald Trump and his “big lie” about a stolen election.\nBut Cheney went down swinging, vowing to reporters on Capitol Hill: “I …",
-          "link": "https://www.theguardian.com/us-news/2021/may/15/liz-cheney-never-trump-republican-party",
-          "publishedOn": "2021-05-15T06:00:19.000Z",
-          "wordCount": 1411,
-          "title": "Can ‘Never Trump’ Republicans gain party control – or is it a lost cause?"
-        },
-        {
-          "id": "https://www.theguardian.com/business/2021/may/15/small-breweries-work-flat-out-for-the-uks-grand-pub-reopening",
-          "author": "Rob Davies",
-          "description": "Return of indoor service on 17 May promises a sorely needed fillip for craft brewers fighting for survival amid Covid crisis \n\nCoronavirus – latest updates\nSee all our coronavirus coverage\n\nThe beery aroma in the air at the Gipsy Hill brewery in south London grows ever richer as sack after sack of the finest malt empties out into a stainless steel container, ready to be brewed into their flagship Hepcat IPA.\nAbout an hour’s drive away, near Esher in Surrey, the small team at the Big Smoke Brew Co are workin…",
-          "link": "https://www.theguardian.com/business/2021/may/15/small-breweries-work-flat-out-for-the-uks-grand-pub-reopening",
-          "publishedOn": "2021-05-15T06:00:18.000Z",
-          "wordCount": 1146,
-          "title": "Small breweries work flat out for the UK’s grand pub reopening"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/15/china-tornadoes-kill-10-injure-hundreds",
-          "author": "Associated Press",
-          "description": "State media says at least six people died in the inland city of Wuhan, where Covid-19 first emerged in late 2019\nBack-to-back tornadoes killed at least 10 people in central and eastern China and left more than 300 others injured, officials and state media have reported.\nSix people died in the inland city of Wuhan and four others in the town of Shengze, about 600km (370 miles) east, in Jiangsu province, local government statements said.\n Continue reading...",
-          "link": "https://www.theguardian.com/world/2021/may/15/china-tornadoes-kill-10-injure-hundreds",
-          "publishedOn": "2021-05-15T05:27:19.000Z",
-          "wordCount": 420,
-          "title": "China tornadoes kill 10, injure hundreds"
-        },
-        {
-          "id": "https://www.theguardian.com/tv-and-radio/2021/may/15/tv-tonight-danish-noir-in-blinded-those-who-kill",
-          "author": "Ammar Kalia, Graeme Virtue, Hannah Verdier, Phil Harrison and Damon Wise",
-          "description": "The murder mystery continues as police search for information on a serial killer. Plus: John Lennon – A Life In Ten Pictures. Here’s what to watch this evening\n Continue reading...",
-          "link": "https://www.theguardian.com/tv-and-radio/2021/may/15/tv-tonight-danish-noir-in-blinded-those-who-kill",
-          "publishedOn": "2021-05-15T05:00:18.000Z",
-          "wordCount": 666,
-          "title": "TV tonight: Danish noir in Blinded – Those Who Kill"
-        },
-        {
-          "id": "https://www.theguardian.com/lifeandstyle/2021/may/15/blind-date-katie-jack",
-          "author": "Guardian Staff",
-          "description": "Katie, 25, branding and innovation consultant, meets Jack, 30, actor\nWhat were you hoping for?\nA cross between Tarzan and Louis Theroux.\n Continue reading...",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/may/15/blind-date-katie-jack",
-          "publishedOn": "2021-05-15T05:00:18.000Z",
-          "wordCount": 889,
-          "title": "Blind date: ‘He said, “Do you want to get married”’"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/14/lake-tahoe-cleanup-trash-scuba-divers",
-          "author": "Associated Press",
-          "description": "Scuba team launches six-month effort that has already turned up fishing rods, tires and cans\nScuba divers removed about 200lb of garbage from California’s Lake Tahoe on Friday, as part of a six-month effort to rid the popular lake of fishing rods, tires, aluminum cans, beer bottles and other trash accumulating underwater.\nThe team plans to look for trash along the entire 72 miles (115 km) of shoreline in an endeavor that could be the largest trash cleanup in the lake’s history, said Colin West, a diver and …",
-          "link": "https://www.theguardian.com/us-news/2021/may/14/lake-tahoe-cleanup-trash-scuba-divers",
-          "publishedOn": "2021-05-15T05:00:17.000Z",
-          "wordCount": 534,
-          "title": "‘I was blown away’: divers haul 200lb of trash from Lake Tahoe in a day"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/15/heir-of-desperation-as-japan-wrestles-with-looming-royal-succession-crisis",
-          "author": "Justin McCurry in Tokyo",
-          "description": "Experts convened to consider changing male-only succession laws amid preponderance of women in the royal family\nA panel of experts has begun talks on addressing the shortage of heirs to the Japanese imperial throne, as a poll showed that four in five members of the public are comfortable with the idea of women becoming reigning empresses.\nSolving the succession crisis has taken on greater urgency due to a scarcity of males in the world’s oldest monarchy and the abdication, for health reasons, of Emperor Aki…",
-          "link": "https://www.theguardian.com/world/2021/may/15/heir-of-desperation-as-japan-wrestles-with-looming-royal-succession-crisis",
-          "publishedOn": "2021-05-15T04:00:16.000Z",
-          "wordCount": 1050,
-          "title": "Heir of desperation as Japan wrestles with looming royal succession crisis"
-        },
-        {
-          "id": "https://www.theguardian.com/science/2021/may/15/china-lands-unmanned-spacecraft-on-mars",
-          "author": "Guardian staff and agencies",
-          "description": "State-run media says landing ‘spectacularly conquered’ a new milestone; it joins US Perseverance rover which landed in February\nAn unmanned Chinese spacecraft has successfully landed on the surface of Mars, Chinese state news agency Xinhua has reported, making China the second space-faring nation after the US to land on the red planet. \nThe official Xinhua news agency said the lander had touched down on Saturday, citing the China National Space Administration.\n Continue reading...",
-          "link": "https://www.theguardian.com/science/2021/may/15/china-lands-unmanned-spacecraft-on-mars",
-          "publishedOn": "2021-05-15T01:10:51.000Z",
-          "wordCount": 755,
-          "title": "China lands unmanned spacecraft on Mars for first time"
-        },
-        {
-          "id": "https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo",
-          "author": "David Smith in Washington",
-          "description": "Photo of ex-president will make way for a painted portrait as gallery says Trump’s team is considering artists\nA picture is worth a thousand tweets. Donald Trump gained immortality of sorts on Friday when he made his debut at the National Portrait Gallery in Washington. But he also ran into some “good trouble”.\n Related: Rightwingers tried to discredit Trump ‘foes’ with honey trap plot – report \n Continue reading...",
-          "link": "https://www.theguardian.com/us-news/2021/may/14/donald-trump-national-portrait-gallery-photo",
-          "publishedOn": "2021-05-14T20:33:22.000Z",
-          "wordCount": 987,
-          "title": "‘It’s hard to look at’: Donald Trump makes National Portrait Gallery debut"
-        },
-        {
           "id": "https://www.theguardian.com/artanddesign/gallery/2021/may/14/20-photographs-of-the-week-from-around-world",
           "author": "Jim Powell",
           "description": "The escalating conflict in Gaza and Israel, young migrants on the border between Mexico and the US, protests against the government in Colombia and the enduring impact of Covid-19: the most striking images from around the world this week\n Continue reading...",
@@ -1114,42 +1222,6 @@
           "publishedOn": "2021-05-14T18:38:39.000Z",
           "wordCount": 1164,
           "title": "20 photographs of the week"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2021/may/14/edwin-poots-elected-dup-leader-to-succeed-arlene-foster",
-          "author": "Rory Carroll Ireland correspondent",
-          "description": "Northern Ireland agriculture minister and young Earth creationist says someone else will be first minister\nEdwin Poots has been elected leader of the Democratic Unionist party (DUP) on the promise of remoulding Northern Ireland’s biggest party and ratcheting up opposition to the Irish Sea border.\nOn Friday the Stormont agriculture minister narrowly beat Sir Jeffrey Donaldson, a DUP MP, in a two-horse race to succeed Arlene Foster.\n Continue reading...",
-          "link": "https://www.theguardian.com/uk-news/2021/may/14/edwin-poots-elected-dup-leader-to-succeed-arlene-foster",
-          "publishedOn": "2021-05-14T17:54:21.000Z",
-          "wordCount": 971,
-          "title": "Edwin Poots elected DUP leader to succeed Arlene Foster"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/14/the-guardian-view-on-intercommunal-violence-in-israel-a-dangerous-development-with-deep-roots",
-          "author": "Editorial",
-          "description": "Political rhetoric has cultivated hatred. Both Palestinian and Jewish citizens are paying the price\n\nThe horror unfolding in the Middle East is both old and new. There is a terrible familiarity to the destruction the Israeli state is raining down upon Gaza, and the lethal missiles fired from the Strip by Palestinian militants. Three wars and numerous battles have taught everyone what to expect: indifference to civilian lives on both sides. Already 119 Palestinians are dead, including 27 children, while eigh…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/14/the-guardian-view-on-intercommunal-violence-in-israel-a-dangerous-development-with-deep-roots",
-          "publishedOn": "2021-05-14T17:30:03.000Z",
-          "wordCount": 806,
-          "title": "The Guardian view on intercommunal violence in Israel: a dangerous development with deep roots | Editorial"
-        },
-        {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/14/the-guardian-view-on-taking-back-the-buses-a-route-to-recovery",
-          "author": "Editorial",
-          "description": "With plans to reassert public, democratic control over bus networks, mayors and ministers are correcting an old unfairness\nIn 2024, Greater Manchester will reassert public, democratic control over its buses. The new, shortened timetable set out by mayor Andy Burnham following his re-election will make the combined authority, made up of Manchester and nine surrounding councils, the first area in the country to seize hold of powers passed into law in 2017. Private bus operators will, for the first time in dec…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/14/the-guardian-view-on-taking-back-the-buses-a-route-to-recovery",
-          "publishedOn": "2021-05-14T17:25:03.000Z",
-          "wordCount": 772,
-          "title": "The Guardian view on taking back the buses: a route to recovery | Editorial"
-        },
-        {
-          "id": "https://www.theguardian.com/media/2021/may/14/from-a-standing-fart-readers-on-their-favourite-grauniad-mistakes",
-          "author": "Letters",
-          "description": "Readers list some of the paper’s most memorable gaffes and typos over the years as the Guardian celebrates its bicentenary\nThe necessary speed of the production of the paper is part of the reason for Guardian misprints (Typo negative: the best and worst of Grauniad mistakes over 200 years, 12 May), but that does not fully explain why the Grauniad got its name as a happy hunting ground for misprint seekers.\nI was told when I joined the paper in 1965 that the Manchester negotiators had blundered when they enc…",
-          "link": "https://www.theguardian.com/media/2021/may/14/from-a-standing-fart-readers-on-their-favourite-grauniad-mistakes",
-          "publishedOn": "2021-05-14T16:44:37.000Z",
-          "wordCount": 1097,
-          "title": "‘From a standing fart’: readers on their favourite Grauniad mistakes | Letters"
         },
         {
           "id": "https://www.theguardian.com/environment/2021/may/14/third-of-global-food-production-at-risk-from-climate-crisis",
@@ -1161,94 +1233,13 @@
           "title": "Third of global food production at risk from climate crisis"
         },
         {
-          "id": "https://www.theguardian.com/commentisfree/2021/may/14/violence-israel-gaza-bloodshed-palestinians",
-          "author": "Jonathan Freedland",
-          "description": "The cycle of bloodshed will repeat, so long as the status quo remains comfortable for everyone except ordinary Palestinians\nIf Groundhog Day were a horror movie, it would look like this. The deadly violence shaking the Middle East – Israeli airstrikes on Gaza, Hamas rocket attacks on Israel – seems to play out the same way, again and again, as if on some macabre repeat cycle. We saw it in 2009 and we saw it again in 2014. Each element is familiar: the lopsided death toll, Palestinian deaths outnumbering Isr…",
-          "link": "https://www.theguardian.com/commentisfree/2021/may/14/violence-israel-gaza-bloodshed-palestinians",
-          "publishedOn": "2021-05-14T16:07:29.000Z",
-          "wordCount": 1409,
-          "title": "Once this violence in Israel and Gaza ends, there can be no return to 'normal' | Jonathan Freedland"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/may/14/we-can-be-proud-of-the-home-office-i-lead",
-          "author": "Letters",
-          "description": "Permanent secretary Matthew Rycroft responds to an article about his government department\nYour characterisation of the Home Office (Cruel, paranoid, failing: inside the Home Office, 13 May) does not match my experience during the year I have led it. \nI have found a group of people committed to public service, determined to have a positive impact and focused on doing the right thing. Everyone at the Home Office acknowledges the wrongs and injustices of the past. We feel these every day and are determined to…",
-          "link": "https://www.theguardian.com/politics/2021/may/14/we-can-be-proud-of-the-home-office-i-lead",
-          "publishedOn": "2021-05-14T16:00:52.000Z",
-          "wordCount": 565,
-          "title": "We can be proud of the Home Office I lead | Letter"
-        },
-        {
-          "id": "https://www.theguardian.com/environment/2021/may/14/republicans-climate-crisis-trump-peter-meijer",
-          "author": "Oliver Milman",
-          "description": "Congressman Peter Meijer, 33, warns that false claims of a burger ban or blaming immigrants risk losing the young generation\nLies that hamburgers will be banned, conspiracy-laden claims of government tyranny, blame for environmental degradation foisted upon immigrants – the Republican response to Joe Biden’s climate agenda suggests the base instincts of Donald Trump still strongly animate the party.\n Related: Asia is home to 99 of world’s 100 most vulnerable cities \n Continue reading...",
-          "link": "https://www.theguardian.com/environment/2021/may/14/republicans-climate-crisis-trump-peter-meijer",
-          "publishedOn": "2021-05-14T15:17:14.000Z",
-          "wordCount": 1229,
-          "title": "Crying about hamburgers is dead-end on climate crisis, Republicans warned"
-        },
-        {
           "id": "https://www.theguardian.com/media/2021/may/14/the-therapy-has-never-waned-guardian-readers-on-their-long-relationships-with-us",
           "author": "Letters",
-          "description": "Don Borland on how the paper helped him recover from TB, plus letters from Peter Bird, Elizabeth Jurd, Elizabeth Monger, Graham Head, John Boyle, Andrew Dean, Chas Ball, Tony Meacock, Janet Hulme and Robert Daws\nIn 1953, at the age of 16, I caught tuberculosis. I was in a sanatorium for 18 months. Antibiotics were new and bed rest and lots of fresh air were de rigueur. So I passed the summer of 1953 in a two-bed cubicle in the company of a 17-year-old mate, open to the lawn and trees before us, the stable d…",
+          "description": "Don Borland on how the paper helped him recover from TB, plus letters from Peter Bird, Elizabeth Jurd, Elizabeth Monger, Graham Head, John Boyle, Andrew Dean, Chas Ball, Tony Meacock, Janet Hulme and Robert Daws\n\nCelebrate 200 years of independent Guardian journalism, and help power our future – make a contribution, or become a subscriber. \n\nIn 1953, at the age of 16, I caught tuberculosis. I was in a sanatorium for 18 months. Antibiotics were new and bed rest and lots of fresh air were de rigueur. So I pas…",
           "link": "https://www.theguardian.com/media/2021/may/14/the-therapy-has-never-waned-guardian-readers-on-their-long-relationships-with-us",
           "publishedOn": "2021-05-14T14:55:20.000Z",
-          "wordCount": 1765,
+          "wordCount": 1785,
           "title": "‘The therapy has never waned’: Guardian readers on their long relationships with us | Letters"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2021/may/14/a-special-day-how-glasgow-community-halted-immigration-raid",
-          "author": "Libby Brooks Scotland correspondent",
-          "description": "Activists and local people tell how they forced the release of two men detained in an enforcement van\nIt was just after 9am on Thursday and he was finishing breakfast when the callout came. Kenmure Street’s “Van Man” – the activist who spent nearly eight hours squeezed underneath an immigration enforcement van to prevent the detention of two men on Glasgow’s southside – was on his bike in minutes.\n“It’s not often you can catch raids in the act like this, but the southside has a lot of folks pulling together…",
-          "link": "https://www.theguardian.com/uk-news/2021/may/14/a-special-day-how-glasgow-community-halted-immigration-raid",
-          "publishedOn": "2021-05-14T14:51:25.000Z",
-          "wordCount": 1132,
-          "title": "‘A special day’: how a Glasgow community halted immigration raid"
-        },
-        {
-          "id": "https://www.theguardian.com/uk-news/2021/may/14/wave-project-cornwall-beach-school-vulnerable-children-risk-excluded",
-          "author": "Steven Morris",
-          "description": "Wave Project charity plans purpose-built facility for Cornish children at risk of being permanently excluded\nIt will not look or feel much like a conventional school. Built around a central garden, the main classroom will be the great outdoors: the surf, the dunes, the rock pools. The only uniforms will be wetsuits and, on chilly days, students will love hopping into the hot tub.\nPlans for what is being billed as the world’s first purpose-built “beach school” will be presented to the public this weekend on …",
-          "link": "https://www.theguardian.com/uk-news/2021/may/14/wave-project-cornwall-beach-school-vulnerable-children-risk-excluded",
-          "publishedOn": "2021-05-14T14:36:46.000Z",
-          "wordCount": 1033,
-          "title": "Cornwall ‘beach school’ aims to offer hope for vulnerable children"
-        },
-        {
-          "id": "https://www.theguardian.com/politics/2021/may/14/hostile-uk-border-regime-traumatises-visitors-from-eu",
-          "author": "Giles Tremlett in Madrid and Lisa O'Carroll",
-          "description": "Italian woman visiting family was locked up in detention centre as they waited at the airport, Guardian told\n\nEU citizens arriving in UK being locked up and expelled\n\nBritain’s hostile regime for potential EU migrants is traumatising visitors caught in its web and provoking further worries for European families receiving visits from relatives, according to accounts provided to the Guardian.\nThe slightest suspicion that someone may be entering Britain to work is often enough for them to be locked up, held at…",
-          "link": "https://www.theguardian.com/politics/2021/may/14/hostile-uk-border-regime-traumatises-visitors-from-eu",
-          "publishedOn": "2021-05-14T14:22:35.000Z",
-          "wordCount": 1383,
-          "title": "Hostile UK border regime traumatises visitors from EU"
-        },
-        {
-          "id": "https://www.theguardian.com/environment/2021/may/14/sightings-and-social-media-spark-british-whale-watching-boom",
-          "author": "Lucy Campbell",
-          "description": "Marine life charities and wildlife tour operators observe growing interest in and empathy for whales\nWhen a sick baby minke whale lost its way up the Thames earlier this week, hundreds of people gathered to watch the rescue efforts at Richmond and Teddington over the course of two days.\nIt was the furthest upriver a whale had ever ventured, a feat so out of the ordinary that the curiosity among the crowds flocking to the weir and those following the whale’s misguided journey on social media was matched by t…",
-          "link": "https://www.theguardian.com/environment/2021/may/14/sightings-and-social-media-spark-british-whale-watching-boom",
-          "publishedOn": "2021-05-14T13:02:17.000Z",
-          "wordCount": 1482,
-          "title": "Sightings and social media spark British whale-watching boom"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/may/14/what-is-the-current-israel-gaza-crisis-about-and-where-is-it-heading",
-          "author": "Peter Beaumont",
-          "description": "Analysis: A series of combustible events coincided dangerously to trigger worst violence in years\nThe current crisis between Israelis and Palestinians, like so many before, has complex roots in the foundation of Israel in 1948 and after the six-day war in 1967 when Israel captured then Arab-controlled parts of Jerusalem, including the Old City and its holy sites.\n Continue reading...",
-          "link": "https://www.theguardian.com/world/2021/may/14/what-is-the-current-israel-gaza-crisis-about-and-where-is-it-heading",
-          "publishedOn": "2021-05-14T12:50:18.000Z",
-          "wordCount": 1494,
-          "title": "What is the current Israel-Gaza crisis about and where is it heading?"
-        },
-        {
-          "id": "https://www.theguardian.com/fashion/gallery/2021/may/14/shoephoria-the-history-footwear-in-pictures",
-          "author": "",
-          "description": "Shoephoria! at the Fashion Museum in Bath showcases 350 pairs of boots and shoes to illustrate their evolution over the last 300 years, demonstrating the creativity and style of shoemakers and wearers\n\nShoephoria! exhibition to open at Fashion Museum in Bath\n Continue reading...",
-          "link": "https://www.theguardian.com/fashion/gallery/2021/may/14/shoephoria-the-history-footwear-in-pictures",
-          "publishedOn": "2021-05-14T09:02:13.000Z",
-          "wordCount": 796,
-          "title": "Shoephoria! The history of footwear – in pictures"
         },
         {
           "id": "https://www.theguardian.com/media/2021/may/14/guardian-200-competition-name-the-date-article-week-two",
@@ -1258,15 +1249,6 @@
           "publishedOn": "2021-05-14T09:00:53.000Z",
           "wordCount": 1462,
           "title": "Competition: name the date of the Guardian article – week two"
-        },
-        {
-          "id": "https://www.theguardian.com/artanddesign/gallery/2021/may/14/japans-senior-cheer-dancing-squad-in-pictures",
-          "author": "All pictures by Kim Kyung-Hoon/Reuters",
-          "description": "Japan Pom Pom started with five people 26 years ago and now has 17 active members, all older than 55, who passed auditions to join\n Continue reading...",
-          "link": "https://www.theguardian.com/artanddesign/gallery/2021/may/14/japans-senior-cheer-dancing-squad-in-pictures",
-          "publishedOn": "2021-05-14T08:00:52.000Z",
-          "wordCount": 794,
-          "title": "Japan’s senior cheer-dancing squad – in pictures"
         },
         {
           "id": "https://www.theguardian.com/artanddesign/2021/may/14/blackstock-road-the-world-on-my-doorstep-a-photo-essay",
@@ -1442,5 +1424,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.0"
+  "cliVersion": "1.7.1"
 }
